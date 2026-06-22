@@ -1,0 +1,68 @@
+title,authors,published,paper_url,llm_output
+"The Artificial Scientist: Logicist, Emergentist, and Universalist Approaches to Artificial General Intelligence","Michael Timothy Bennett, Yoshihiro Maruyama",2021-10-05 05:58:23+00:00,http://arxiv.org/abs/2110.01831v1,"```json
+{
+  ""research_area"": ""Artificial General Intelligence (AGI)"",
+  ""short_summary"": ""This paper defines the requirements for an Artificial Scientist, explores and evaluates various approaches to artificial general intelligence (AGI) that could achieve this, concludes that a unified or hybrid approach is essential, and examines two theories fulfilling this need to some extent.""
+}
+```"
+"Compression, The Fermi Paradox and Artificial Super-Intelligence",Michael Timothy Bennett,2021-10-05 06:17:02+00:00,http://arxiv.org/abs/2110.01835v1,"```json
+{
+  ""research_area"": ""Artificial General Intelligence (AGI), Inter-species Communication, and the Fermi Paradox"",
+  ""short_summary"": ""This paper discusses the challenges in communicating with and controlling Artificial General Intelligence (AGI), linking them to the Fermi Paradox. It suggests that non-human intelligences, including AGIs, might use highly compressed information representations that would appear as incomprehensible noise to humans, thereby explaining the lack of observable alien signals (Fermi Paradox). Effective communication and control of an AGI may require it to possess human-like cognitive biases or even imposed impairments to ensure comprehensibility.""
+}
+```"
+Creative Problem Solving in Artificially Intelligent Agents: A Survey and Framework,"Evana Gizzi, Lakshmi Nair, Sonia Chernova, Jivko Sinapov",2022-04-21 18:31:44+00:00,http://arxiv.org/abs/2204.10358v1,"```json
+{
+  ""research_area"": ""Creative Problem Solving (AI)"",
+  ""short_summary"": ""This paper surveys Creative Problem Solving (CPS) within Artificial Intelligence, presenting a definition and a four-component framework (problem formulation, knowledge representation, knowledge manipulation, and evaluation) to categorize existing methods. It highlights the necessity for AI agents in autonomous systems to handle environmental uncertainty through creativity and suggests future research directions.""
+}
+```"
+"A Review on Explainable Artificial Intelligence for Healthcare: Why, How, and When?","Subrato Bharati, M. Rubaiyat Hossain Mondal, Prajoy Podder",2023-04-10 17:40:21+00:00,http://arxiv.org/abs/2304.04780v1,"```json
+{
+  ""research_area"": ""Explainable Artificial Intelligence (XAI) for Healthcare"",
+  ""short_summary"": ""This systematic review analyzes Explainable Artificial Intelligence (XAI) models used in healthcare, addressing concerns about AI decision explainability. Covering literature from 2012-2022, it investigates trends, research directions, methodologies, and the implications of XAI for deriving trustworthy AI in medicine, aiming to formalize the XAI field.""
+}
+```"
+Artificial Intelligence Framework for Simulating Clinical Decision-Making: A Markov Decision Process Approach,"Casey C. Bennett, Kris Hauser",2013-01-10 15:29:59+00:00,http://arxiv.org/abs/1301.2158v1,"```json
+{
+  ""research_area"": ""Artificial Intelligence in Healthcare"",
+  ""short_summary"": ""This paper proposes a general-purpose artificial intelligence (AI) framework, combining Markov Decision Processes and dynamic decision networks, to simulate and optimize clinical decision-making in complex healthcare environments. Designed to learn from clinical data and operate in partially observable settings, the framework significantly outperforms current treatment-as-usual models by reducing costs (e.g., $189 vs. $497) and substantially increasing patient outcomes (30-35%, potentially 50% more with parameter tuning).""
+}
+```"
+"Modeling Belief in Dynamic Systems, Part II: Revision and Update","N Friedman, J. Y. Halpern",1999-03-24 00:22:01+00:00,http://arxiv.org/abs/cs/9903016v1,"```json
+{
+  ""research_area"": ""Belief Change"",
+  ""short_summary"": ""This paper applies a new framework, introduced in a companion paper, which combines temporal and epistemic modalities with plausibility to model belief change. It demonstrates how belief revision and belief update are captured within this framework, allowing for a comparison of their underlying assumptions and highlighting limitations of certain update methods. The analysis also identifies a notion of minimal change that underpins various belief change operations.""
+}
+```"
+Study on the Helpfulness of Explainable Artificial Intelligence,"Tobias Labarta, Elizaveta Kulicheva, Ronja Froelian, Christian Geißler, Xenia Melman, Julian von Klitzing",2024-10-14 14:03:52+00:00,http://arxiv.org/abs/2410.11896v1,"```json
+{
+  ""research_area"": ""Explainable Artificial Intelligence (XAI)"",
+  ""short_summary"": ""This research evaluates the helpfulness of Explainable Artificial Intelligence (XAI) for human decision-making by proposing a user-centric evaluation method involving proxy tasks. A user study comparing state-of-the-art XAI methods revealed differences in their ability to generate trust, skepticism, and facilitate correct judgment of AI decisions. The study advocates for objective-based, human-centered user studies to measure XAI performance effectively.""
+}
+```"
+"Watershed of Artificial Intelligence: Human Intelligence, Machine Intelligence, and Biological Intelligence","Li Weigang, Liriam Enamoto, Denise Leyi Li, Geraldo Pereira Rocha Filho",2021-04-27 13:03:25+00:00,http://arxiv.org/abs/2104.13155v2,"```json
+{
+  ""research_area"": ""Artificial Intelligence categorization and future directions"",
+  ""short_summary"": ""This article reviews 'Once learning' mechanisms and proposes a new categorization of Artificial Intelligence (AI) into Artificial Human Intelligence (AHI), Artificial Machine Intelligence (AMI), and Artificial Biological Intelligence (ABI). It discusses classification standards and methods based on R&D orientation (human, machine, biological), information input processing (dimensionality-up/down), and sample size for knowledge learning (one/few vs. large samples).""
+}
+```"
+Games for Artificial Intelligence Research: A Review and Perspectives,"Chengpeng Hu, Yunlong Zhao, Ziqi Wang, Haocheng Du, Jialin Liu",2023-04-26 03:42:31+00:00,http://arxiv.org/abs/2304.13269v4,"```json
+{
+  ""research_area"": [
+    ""Artificial Intelligence (AI) research"",
+    ""Learning and optimisation"",
+    ""Decision making in dynamic and uncertain environments"",
+    ""Game theory"",
+    ""Planning and scheduling"",
+    ""Design and education""
+  ],
+  ""short_summary"": ""This paper reviews games and game-based platforms as ideal test-beds for artificial intelligence research, covering areas such as learning, optimization, decision-making, game theory, planning, scheduling, design, and education. It discusses various open-source environments—including single/multi-player, collaborative, adversarial, and creative design platforms—which serve as benchmarks for AI techniques. The paper provides guidance on matching AI types with suitable games, discusses research trends, and offers an outlook on the field.""
+}
+```"
+Artificial Intelligence and Economic Theories,"Tshilidzi Marwala, Evan Hurwitz",2017-03-20 04:47:14+00:00,http://arxiv.org/abs/1703.06597v1,"```json
+{
+  ""research_area"": ""Artificial Intelligence and Economics"",
+  ""short_summary"": ""This book studies the impact of artificial intelligence on various existing economic theories, including demand and supply, asymmetrical information, game theory, and rational choice. It aims to evaluate and update these theories based on recent developments in the AI field, addressing a subject not extensively studied previously.""
+}
+```"
