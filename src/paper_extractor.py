@@ -16,7 +16,7 @@ client = arxiv.Client()
 
 search = arxiv.Search(
     query="artificial intelligence",
-    max_results=10
+    max_results=100
 )
 
 results = []

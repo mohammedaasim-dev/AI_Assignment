@@ -36,7 +36,7 @@ pricing = [
     "ENTERPRISE"
 ]
 
-for i in range(100):
+for i in range(1000):
     products.append({
         "schemaVersion": "1.0",
         "recordType": "PRODUCT",

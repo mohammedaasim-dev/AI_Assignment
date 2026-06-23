@@ -1,101 +1,1001 @@
 schemaVersion,recordType,source_name,source_url,entity_name,employee_count,collected_at
-1.0,STARTUP,AI Directory,https://example.com/startup/0,OpenAI,50,2026-06-23 20:53:26.563348
-1.0,STARTUP,AI Directory,https://example.com/startup/1,Anthropic,100,2026-06-23 20:53:26.563355
-1.0,STARTUP,AI Directory,https://example.com/startup/2,Perplexity,150,2026-06-23 20:53:26.563357
-1.0,STARTUP,AI Directory,https://example.com/startup/3,Mistral AI,200,2026-06-23 20:53:26.563358
-1.0,STARTUP,AI Directory,https://example.com/startup/4,Cohere,250,2026-06-23 20:53:26.563360
-1.0,STARTUP,AI Directory,https://example.com/startup/5,Runway,300,2026-06-23 20:53:26.563361
-1.0,STARTUP,AI Directory,https://example.com/startup/6,Midjourney,350,2026-06-23 20:53:26.563362
-1.0,STARTUP,AI Directory,https://example.com/startup/7,Hugging Face,400,2026-06-23 20:53:26.563363
-1.0,STARTUP,AI Directory,https://example.com/startup/8,Stability AI,450,2026-06-23 20:53:26.563369
-1.0,STARTUP,AI Directory,https://example.com/startup/9,Character AI,500,2026-06-23 20:53:26.563371
-1.0,STARTUP,AI Directory,https://example.com/startup/10,OpenAI,550,2026-06-23 20:53:26.563372
-1.0,STARTUP,AI Directory,https://example.com/startup/11,Anthropic,600,2026-06-23 20:53:26.563373
-1.0,STARTUP,AI Directory,https://example.com/startup/12,Perplexity,650,2026-06-23 20:53:26.563376
-1.0,STARTUP,AI Directory,https://example.com/startup/13,Mistral AI,700,2026-06-23 20:53:26.563377
-1.0,STARTUP,AI Directory,https://example.com/startup/14,Cohere,750,2026-06-23 20:53:26.563378
-1.0,STARTUP,AI Directory,https://example.com/startup/15,Runway,800,2026-06-23 20:53:26.563379
-1.0,STARTUP,AI Directory,https://example.com/startup/16,Midjourney,850,2026-06-23 20:53:26.563380
-1.0,STARTUP,AI Directory,https://example.com/startup/17,Hugging Face,900,2026-06-23 20:53:26.563381
-1.0,STARTUP,AI Directory,https://example.com/startup/18,Stability AI,950,2026-06-23 20:53:26.563382
-1.0,STARTUP,AI Directory,https://example.com/startup/19,Character AI,1000,2026-06-23 20:53:26.563383
-1.0,STARTUP,AI Directory,https://example.com/startup/20,OpenAI,1050,2026-06-23 20:53:26.563384
-1.0,STARTUP,AI Directory,https://example.com/startup/21,Anthropic,1100,2026-06-23 20:53:26.563384
-1.0,STARTUP,AI Directory,https://example.com/startup/22,Perplexity,1150,2026-06-23 20:53:26.563385
-1.0,STARTUP,AI Directory,https://example.com/startup/23,Mistral AI,1200,2026-06-23 20:53:26.563386
-1.0,STARTUP,AI Directory,https://example.com/startup/24,Cohere,1250,2026-06-23 20:53:26.563387
-1.0,STARTUP,AI Directory,https://example.com/startup/25,Runway,1300,2026-06-23 20:53:26.563388
-1.0,STARTUP,AI Directory,https://example.com/startup/26,Midjourney,1350,2026-06-23 20:53:26.563389
-1.0,STARTUP,AI Directory,https://example.com/startup/27,Hugging Face,1400,2026-06-23 20:53:26.563390
-1.0,STARTUP,AI Directory,https://example.com/startup/28,Stability AI,1450,2026-06-23 20:53:26.563391
-1.0,STARTUP,AI Directory,https://example.com/startup/29,Character AI,1500,2026-06-23 20:53:26.563392
-1.0,STARTUP,AI Directory,https://example.com/startup/30,OpenAI,1550,2026-06-23 20:53:26.563393
-1.0,STARTUP,AI Directory,https://example.com/startup/31,Anthropic,1600,2026-06-23 20:53:26.563393
-1.0,STARTUP,AI Directory,https://example.com/startup/32,Perplexity,1650,2026-06-23 20:53:26.563397
-1.0,STARTUP,AI Directory,https://example.com/startup/33,Mistral AI,1700,2026-06-23 20:53:26.563398
-1.0,STARTUP,AI Directory,https://example.com/startup/34,Cohere,1750,2026-06-23 20:53:26.563399
-1.0,STARTUP,AI Directory,https://example.com/startup/35,Runway,1800,2026-06-23 20:53:26.563400
-1.0,STARTUP,AI Directory,https://example.com/startup/36,Midjourney,1850,2026-06-23 20:53:26.563401
-1.0,STARTUP,AI Directory,https://example.com/startup/37,Hugging Face,1900,2026-06-23 20:53:26.563402
-1.0,STARTUP,AI Directory,https://example.com/startup/38,Stability AI,1950,2026-06-23 20:53:26.563403
-1.0,STARTUP,AI Directory,https://example.com/startup/39,Character AI,2000,2026-06-23 20:53:26.563403
-1.0,STARTUP,AI Directory,https://example.com/startup/40,OpenAI,2050,2026-06-23 20:53:26.563404
-1.0,STARTUP,AI Directory,https://example.com/startup/41,Anthropic,2100,2026-06-23 20:53:26.563405
-1.0,STARTUP,AI Directory,https://example.com/startup/42,Perplexity,2150,2026-06-23 20:53:26.563406
-1.0,STARTUP,AI Directory,https://example.com/startup/43,Mistral AI,2200,2026-06-23 20:53:26.563407
-1.0,STARTUP,AI Directory,https://example.com/startup/44,Cohere,2250,2026-06-23 20:53:26.563408
-1.0,STARTUP,AI Directory,https://example.com/startup/45,Runway,2300,2026-06-23 20:53:26.563409
-1.0,STARTUP,AI Directory,https://example.com/startup/46,Midjourney,2350,2026-06-23 20:53:26.563410
-1.0,STARTUP,AI Directory,https://example.com/startup/47,Hugging Face,2400,2026-06-23 20:53:26.563410
-1.0,STARTUP,AI Directory,https://example.com/startup/48,Stability AI,2450,2026-06-23 20:53:26.563411
-1.0,STARTUP,AI Directory,https://example.com/startup/49,Character AI,2500,2026-06-23 20:53:26.563412
-1.0,STARTUP,AI Directory,https://example.com/startup/50,OpenAI,2550,2026-06-23 20:53:26.563413
-1.0,STARTUP,AI Directory,https://example.com/startup/51,Anthropic,2600,2026-06-23 20:53:26.563416
-1.0,STARTUP,AI Directory,https://example.com/startup/52,Perplexity,2650,2026-06-23 20:53:26.563417
-1.0,STARTUP,AI Directory,https://example.com/startup/53,Mistral AI,2700,2026-06-23 20:53:26.563418
-1.0,STARTUP,AI Directory,https://example.com/startup/54,Cohere,2750,2026-06-23 20:53:26.563419
-1.0,STARTUP,AI Directory,https://example.com/startup/55,Runway,2800,2026-06-23 20:53:26.563419
-1.0,STARTUP,AI Directory,https://example.com/startup/56,Midjourney,2850,2026-06-23 20:53:26.563420
-1.0,STARTUP,AI Directory,https://example.com/startup/57,Hugging Face,2900,2026-06-23 20:53:26.563421
-1.0,STARTUP,AI Directory,https://example.com/startup/58,Stability AI,2950,2026-06-23 20:53:26.563422
-1.0,STARTUP,AI Directory,https://example.com/startup/59,Character AI,3000,2026-06-23 20:53:26.563425
-1.0,STARTUP,AI Directory,https://example.com/startup/60,OpenAI,3050,2026-06-23 20:53:26.563426
-1.0,STARTUP,AI Directory,https://example.com/startup/61,Anthropic,3100,2026-06-23 20:53:26.563426
-1.0,STARTUP,AI Directory,https://example.com/startup/62,Perplexity,3150,2026-06-23 20:53:26.563427
-1.0,STARTUP,AI Directory,https://example.com/startup/63,Mistral AI,3200,2026-06-23 20:53:26.563428
-1.0,STARTUP,AI Directory,https://example.com/startup/64,Cohere,3250,2026-06-23 20:53:26.563429
-1.0,STARTUP,AI Directory,https://example.com/startup/65,Runway,3300,2026-06-23 20:53:26.563431
-1.0,STARTUP,AI Directory,https://example.com/startup/66,Midjourney,3350,2026-06-23 20:53:26.563434
-1.0,STARTUP,AI Directory,https://example.com/startup/67,Hugging Face,3400,2026-06-23 20:53:26.563434
-1.0,STARTUP,AI Directory,https://example.com/startup/68,Stability AI,3450,2026-06-23 20:53:26.563435
-1.0,STARTUP,AI Directory,https://example.com/startup/69,Character AI,3500,2026-06-23 20:53:26.563436
-1.0,STARTUP,AI Directory,https://example.com/startup/70,OpenAI,3550,2026-06-23 20:53:26.563437
-1.0,STARTUP,AI Directory,https://example.com/startup/71,Anthropic,3600,2026-06-23 20:53:26.563440
-1.0,STARTUP,AI Directory,https://example.com/startup/72,Perplexity,3650,2026-06-23 20:53:26.563441
-1.0,STARTUP,AI Directory,https://example.com/startup/73,Mistral AI,3700,2026-06-23 20:53:26.563442
-1.0,STARTUP,AI Directory,https://example.com/startup/74,Cohere,3750,2026-06-23 20:53:26.563443
-1.0,STARTUP,AI Directory,https://example.com/startup/75,Runway,3800,2026-06-23 20:53:26.563443
-1.0,STARTUP,AI Directory,https://example.com/startup/76,Midjourney,3850,2026-06-23 20:53:26.563444
-1.0,STARTUP,AI Directory,https://example.com/startup/77,Hugging Face,3900,2026-06-23 20:53:26.563446
-1.0,STARTUP,AI Directory,https://example.com/startup/78,Stability AI,3950,2026-06-23 20:53:26.563447
-1.0,STARTUP,AI Directory,https://example.com/startup/79,Character AI,4000,2026-06-23 20:53:26.563448
-1.0,STARTUP,AI Directory,https://example.com/startup/80,OpenAI,4050,2026-06-23 20:53:26.563449
-1.0,STARTUP,AI Directory,https://example.com/startup/81,Anthropic,4100,2026-06-23 20:53:26.563450
-1.0,STARTUP,AI Directory,https://example.com/startup/82,Perplexity,4150,2026-06-23 20:53:26.563451
-1.0,STARTUP,AI Directory,https://example.com/startup/83,Mistral AI,4200,2026-06-23 20:53:26.563451
-1.0,STARTUP,AI Directory,https://example.com/startup/84,Cohere,4250,2026-06-23 20:53:26.563452
-1.0,STARTUP,AI Directory,https://example.com/startup/85,Runway,4300,2026-06-23 20:53:26.563453
-1.0,STARTUP,AI Directory,https://example.com/startup/86,Midjourney,4350,2026-06-23 20:53:26.563454
-1.0,STARTUP,AI Directory,https://example.com/startup/87,Hugging Face,4400,2026-06-23 20:53:26.563457
-1.0,STARTUP,AI Directory,https://example.com/startup/88,Stability AI,4450,2026-06-23 20:53:26.563459
-1.0,STARTUP,AI Directory,https://example.com/startup/89,Character AI,4500,2026-06-23 20:53:26.563460
-1.0,STARTUP,AI Directory,https://example.com/startup/90,OpenAI,4550,2026-06-23 20:53:26.563463
-1.0,STARTUP,AI Directory,https://example.com/startup/91,Anthropic,4600,2026-06-23 20:53:26.563464
-1.0,STARTUP,AI Directory,https://example.com/startup/92,Perplexity,4650,2026-06-23 20:53:26.563465
-1.0,STARTUP,AI Directory,https://example.com/startup/93,Mistral AI,4700,2026-06-23 20:53:26.563466
-1.0,STARTUP,AI Directory,https://example.com/startup/94,Cohere,4750,2026-06-23 20:53:26.563467
-1.0,STARTUP,AI Directory,https://example.com/startup/95,Runway,4800,2026-06-23 20:53:26.563468
-1.0,STARTUP,AI Directory,https://example.com/startup/96,Midjourney,4850,2026-06-23 20:53:26.563469
-1.0,STARTUP,AI Directory,https://example.com/startup/97,Hugging Face,4900,2026-06-23 20:53:26.563469
-1.0,STARTUP,AI Directory,https://example.com/startup/98,Stability AI,4950,2026-06-23 20:53:26.563470
-1.0,STARTUP,AI Directory,https://example.com/startup/99,Character AI,5000,2026-06-23 20:53:26.563471
+1.0,STARTUP,AI Directory,https://example.com/startup/0,OpenAI,50,2026-06-23 21:05:02.517708
+1.0,STARTUP,AI Directory,https://example.com/startup/1,Anthropic,100,2026-06-23 21:05:02.517715
+1.0,STARTUP,AI Directory,https://example.com/startup/2,Perplexity,150,2026-06-23 21:05:02.517718
+1.0,STARTUP,AI Directory,https://example.com/startup/3,Mistral AI,200,2026-06-23 21:05:02.517720
+1.0,STARTUP,AI Directory,https://example.com/startup/4,Cohere,250,2026-06-23 21:05:02.517721
+1.0,STARTUP,AI Directory,https://example.com/startup/5,Runway,300,2026-06-23 21:05:02.517723
+1.0,STARTUP,AI Directory,https://example.com/startup/6,Midjourney,350,2026-06-23 21:05:02.517724
+1.0,STARTUP,AI Directory,https://example.com/startup/7,Hugging Face,400,2026-06-23 21:05:02.517726
+1.0,STARTUP,AI Directory,https://example.com/startup/8,Stability AI,450,2026-06-23 21:05:02.517727
+1.0,STARTUP,AI Directory,https://example.com/startup/9,Character AI,500,2026-06-23 21:05:02.517728
+1.0,STARTUP,AI Directory,https://example.com/startup/10,OpenAI,550,2026-06-23 21:05:02.517730
+1.0,STARTUP,AI Directory,https://example.com/startup/11,Anthropic,600,2026-06-23 21:05:02.517738
+1.0,STARTUP,AI Directory,https://example.com/startup/12,Perplexity,650,2026-06-23 21:05:02.517739
+1.0,STARTUP,AI Directory,https://example.com/startup/13,Mistral AI,700,2026-06-23 21:05:02.517740
+1.0,STARTUP,AI Directory,https://example.com/startup/14,Cohere,750,2026-06-23 21:05:02.517741
+1.0,STARTUP,AI Directory,https://example.com/startup/15,Runway,800,2026-06-23 21:05:02.517742
+1.0,STARTUP,AI Directory,https://example.com/startup/16,Midjourney,850,2026-06-23 21:05:02.517743
+1.0,STARTUP,AI Directory,https://example.com/startup/17,Hugging Face,900,2026-06-23 21:05:02.517745
+1.0,STARTUP,AI Directory,https://example.com/startup/18,Stability AI,950,2026-06-23 21:05:02.517746
+1.0,STARTUP,AI Directory,https://example.com/startup/19,Character AI,1000,2026-06-23 21:05:02.517747
+1.0,STARTUP,AI Directory,https://example.com/startup/20,OpenAI,1050,2026-06-23 21:05:02.517749
+1.0,STARTUP,AI Directory,https://example.com/startup/21,Anthropic,1100,2026-06-23 21:05:02.517750
+1.0,STARTUP,AI Directory,https://example.com/startup/22,Perplexity,1150,2026-06-23 21:05:02.517751
+1.0,STARTUP,AI Directory,https://example.com/startup/23,Mistral AI,1200,2026-06-23 21:05:02.517752
+1.0,STARTUP,AI Directory,https://example.com/startup/24,Cohere,1250,2026-06-23 21:05:02.517753
+1.0,STARTUP,AI Directory,https://example.com/startup/25,Runway,1300,2026-06-23 21:05:02.517755
+1.0,STARTUP,AI Directory,https://example.com/startup/26,Midjourney,1350,2026-06-23 21:05:02.517756
+1.0,STARTUP,AI Directory,https://example.com/startup/27,Hugging Face,1400,2026-06-23 21:05:02.517757
+1.0,STARTUP,AI Directory,https://example.com/startup/28,Stability AI,1450,2026-06-23 21:05:02.517758
+1.0,STARTUP,AI Directory,https://example.com/startup/29,Character AI,1500,2026-06-23 21:05:02.517759
+1.0,STARTUP,AI Directory,https://example.com/startup/30,OpenAI,1550,2026-06-23 21:05:02.517760
+1.0,STARTUP,AI Directory,https://example.com/startup/31,Anthropic,1600,2026-06-23 21:05:02.517764
+1.0,STARTUP,AI Directory,https://example.com/startup/32,Perplexity,1650,2026-06-23 21:05:02.517766
+1.0,STARTUP,AI Directory,https://example.com/startup/33,Mistral AI,1700,2026-06-23 21:05:02.517767
+1.0,STARTUP,AI Directory,https://example.com/startup/34,Cohere,1750,2026-06-23 21:05:02.517768
+1.0,STARTUP,AI Directory,https://example.com/startup/35,Runway,1800,2026-06-23 21:05:02.517770
+1.0,STARTUP,AI Directory,https://example.com/startup/36,Midjourney,1850,2026-06-23 21:05:02.517771
+1.0,STARTUP,AI Directory,https://example.com/startup/37,Hugging Face,1900,2026-06-23 21:05:02.517772
+1.0,STARTUP,AI Directory,https://example.com/startup/38,Stability AI,1950,2026-06-23 21:05:02.517773
+1.0,STARTUP,AI Directory,https://example.com/startup/39,Character AI,2000,2026-06-23 21:05:02.517774
+1.0,STARTUP,AI Directory,https://example.com/startup/40,OpenAI,2050,2026-06-23 21:05:02.517777
+1.0,STARTUP,AI Directory,https://example.com/startup/41,Anthropic,2100,2026-06-23 21:05:02.517779
+1.0,STARTUP,AI Directory,https://example.com/startup/42,Perplexity,2150,2026-06-23 21:05:02.517780
+1.0,STARTUP,AI Directory,https://example.com/startup/43,Mistral AI,2200,2026-06-23 21:05:02.517781
+1.0,STARTUP,AI Directory,https://example.com/startup/44,Cohere,2250,2026-06-23 21:05:02.517783
+1.0,STARTUP,AI Directory,https://example.com/startup/45,Runway,2300,2026-06-23 21:05:02.517784
+1.0,STARTUP,AI Directory,https://example.com/startup/46,Midjourney,2350,2026-06-23 21:05:02.517785
+1.0,STARTUP,AI Directory,https://example.com/startup/47,Hugging Face,2400,2026-06-23 21:05:02.517786
+1.0,STARTUP,AI Directory,https://example.com/startup/48,Stability AI,2450,2026-06-23 21:05:02.517787
+1.0,STARTUP,AI Directory,https://example.com/startup/49,Character AI,2500,2026-06-23 21:05:02.517788
+1.0,STARTUP,AI Directory,https://example.com/startup/50,OpenAI,2550,2026-06-23 21:05:02.517791
+1.0,STARTUP,AI Directory,https://example.com/startup/51,Anthropic,2600,2026-06-23 21:05:02.517792
+1.0,STARTUP,AI Directory,https://example.com/startup/52,Perplexity,2650,2026-06-23 21:05:02.517793
+1.0,STARTUP,AI Directory,https://example.com/startup/53,Mistral AI,2700,2026-06-23 21:05:02.517795
+1.0,STARTUP,AI Directory,https://example.com/startup/54,Cohere,2750,2026-06-23 21:05:02.517796
+1.0,STARTUP,AI Directory,https://example.com/startup/55,Runway,2800,2026-06-23 21:05:02.517797
+1.0,STARTUP,AI Directory,https://example.com/startup/56,Midjourney,2850,2026-06-23 21:05:02.517798
+1.0,STARTUP,AI Directory,https://example.com/startup/57,Hugging Face,2900,2026-06-23 21:05:02.517799
+1.0,STARTUP,AI Directory,https://example.com/startup/58,Stability AI,2950,2026-06-23 21:05:02.517801
+1.0,STARTUP,AI Directory,https://example.com/startup/59,Character AI,3000,2026-06-23 21:05:02.517802
+1.0,STARTUP,AI Directory,https://example.com/startup/60,OpenAI,3050,2026-06-23 21:05:02.517803
+1.0,STARTUP,AI Directory,https://example.com/startup/61,Anthropic,3100,2026-06-23 21:05:02.517804
+1.0,STARTUP,AI Directory,https://example.com/startup/62,Perplexity,3150,2026-06-23 21:05:02.517805
+1.0,STARTUP,AI Directory,https://example.com/startup/63,Mistral AI,3200,2026-06-23 21:05:02.517806
+1.0,STARTUP,AI Directory,https://example.com/startup/64,Cohere,3250,2026-06-23 21:05:02.517807
+1.0,STARTUP,AI Directory,https://example.com/startup/65,Runway,3300,2026-06-23 21:05:02.517809
+1.0,STARTUP,AI Directory,https://example.com/startup/66,Midjourney,3350,2026-06-23 21:05:02.517810
+1.0,STARTUP,AI Directory,https://example.com/startup/67,Hugging Face,3400,2026-06-23 21:05:02.517811
+1.0,STARTUP,AI Directory,https://example.com/startup/68,Stability AI,3450,2026-06-23 21:05:02.517812
+1.0,STARTUP,AI Directory,https://example.com/startup/69,Character AI,3500,2026-06-23 21:05:02.517813
+1.0,STARTUP,AI Directory,https://example.com/startup/70,OpenAI,3550,2026-06-23 21:05:02.517817
+1.0,STARTUP,AI Directory,https://example.com/startup/71,Anthropic,3600,2026-06-23 21:05:02.517818
+1.0,STARTUP,AI Directory,https://example.com/startup/72,Perplexity,3650,2026-06-23 21:05:02.517819
+1.0,STARTUP,AI Directory,https://example.com/startup/73,Mistral AI,3700,2026-06-23 21:05:02.517820
+1.0,STARTUP,AI Directory,https://example.com/startup/74,Cohere,3750,2026-06-23 21:05:02.517821
+1.0,STARTUP,AI Directory,https://example.com/startup/75,Runway,3800,2026-06-23 21:05:02.517822
+1.0,STARTUP,AI Directory,https://example.com/startup/76,Midjourney,3850,2026-06-23 21:05:02.517823
+1.0,STARTUP,AI Directory,https://example.com/startup/77,Hugging Face,3900,2026-06-23 21:05:02.517826
+1.0,STARTUP,AI Directory,https://example.com/startup/78,Stability AI,3950,2026-06-23 21:05:02.517827
+1.0,STARTUP,AI Directory,https://example.com/startup/79,Character AI,4000,2026-06-23 21:05:02.517828
+1.0,STARTUP,AI Directory,https://example.com/startup/80,OpenAI,4050,2026-06-23 21:05:02.517832
+1.0,STARTUP,AI Directory,https://example.com/startup/81,Anthropic,4100,2026-06-23 21:05:02.517833
+1.0,STARTUP,AI Directory,https://example.com/startup/82,Perplexity,4150,2026-06-23 21:05:02.517835
+1.0,STARTUP,AI Directory,https://example.com/startup/83,Mistral AI,4200,2026-06-23 21:05:02.517836
+1.0,STARTUP,AI Directory,https://example.com/startup/84,Cohere,4250,2026-06-23 21:05:02.517837
+1.0,STARTUP,AI Directory,https://example.com/startup/85,Runway,4300,2026-06-23 21:05:02.517840
+1.0,STARTUP,AI Directory,https://example.com/startup/86,Midjourney,4350,2026-06-23 21:05:02.517843
+1.0,STARTUP,AI Directory,https://example.com/startup/87,Hugging Face,4400,2026-06-23 21:05:02.517845
+1.0,STARTUP,AI Directory,https://example.com/startup/88,Stability AI,4450,2026-06-23 21:05:02.517846
+1.0,STARTUP,AI Directory,https://example.com/startup/89,Character AI,4500,2026-06-23 21:05:02.517849
+1.0,STARTUP,AI Directory,https://example.com/startup/90,OpenAI,4550,2026-06-23 21:05:02.517850
+1.0,STARTUP,AI Directory,https://example.com/startup/91,Anthropic,4600,2026-06-23 21:05:02.517851
+1.0,STARTUP,AI Directory,https://example.com/startup/92,Perplexity,4650,2026-06-23 21:05:02.517855
+1.0,STARTUP,AI Directory,https://example.com/startup/93,Mistral AI,4700,2026-06-23 21:05:02.517857
+1.0,STARTUP,AI Directory,https://example.com/startup/94,Cohere,4750,2026-06-23 21:05:02.517859
+1.0,STARTUP,AI Directory,https://example.com/startup/95,Runway,4800,2026-06-23 21:05:02.517860
+1.0,STARTUP,AI Directory,https://example.com/startup/96,Midjourney,4850,2026-06-23 21:05:02.517861
+1.0,STARTUP,AI Directory,https://example.com/startup/97,Hugging Face,4900,2026-06-23 21:05:02.517862
+1.0,STARTUP,AI Directory,https://example.com/startup/98,Stability AI,4950,2026-06-23 21:05:02.517863
+1.0,STARTUP,AI Directory,https://example.com/startup/99,Character AI,5000,2026-06-23 21:05:02.517864
+1.0,STARTUP,AI Directory,https://example.com/startup/100,OpenAI,5050,2026-06-23 21:05:02.517866
+1.0,STARTUP,AI Directory,https://example.com/startup/101,Anthropic,5100,2026-06-23 21:05:02.517867
+1.0,STARTUP,AI Directory,https://example.com/startup/102,Perplexity,5150,2026-06-23 21:05:02.517868
+1.0,STARTUP,AI Directory,https://example.com/startup/103,Mistral AI,5200,2026-06-23 21:05:02.517869
+1.0,STARTUP,AI Directory,https://example.com/startup/104,Cohere,5250,2026-06-23 21:05:02.517870
+1.0,STARTUP,AI Directory,https://example.com/startup/105,Runway,5300,2026-06-23 21:05:02.517871
+1.0,STARTUP,AI Directory,https://example.com/startup/106,Midjourney,5350,2026-06-23 21:05:02.517872
+1.0,STARTUP,AI Directory,https://example.com/startup/107,Hugging Face,5400,2026-06-23 21:05:02.517874
+1.0,STARTUP,AI Directory,https://example.com/startup/108,Stability AI,5450,2026-06-23 21:05:02.517875
+1.0,STARTUP,AI Directory,https://example.com/startup/109,Character AI,5500,2026-06-23 21:05:02.517879
+1.0,STARTUP,AI Directory,https://example.com/startup/110,OpenAI,5550,2026-06-23 21:05:02.517880
+1.0,STARTUP,AI Directory,https://example.com/startup/111,Anthropic,5600,2026-06-23 21:05:02.517881
+1.0,STARTUP,AI Directory,https://example.com/startup/112,Perplexity,5650,2026-06-23 21:05:02.517883
+1.0,STARTUP,AI Directory,https://example.com/startup/113,Mistral AI,5700,2026-06-23 21:05:02.517884
+1.0,STARTUP,AI Directory,https://example.com/startup/114,Cohere,5750,2026-06-23 21:05:02.517885
+1.0,STARTUP,AI Directory,https://example.com/startup/115,Runway,5800,2026-06-23 21:05:02.517886
+1.0,STARTUP,AI Directory,https://example.com/startup/116,Midjourney,5850,2026-06-23 21:05:02.517887
+1.0,STARTUP,AI Directory,https://example.com/startup/117,Hugging Face,5900,2026-06-23 21:05:02.517888
+1.0,STARTUP,AI Directory,https://example.com/startup/118,Stability AI,5950,2026-06-23 21:05:02.517890
+1.0,STARTUP,AI Directory,https://example.com/startup/119,Character AI,6000,2026-06-23 21:05:02.517891
+1.0,STARTUP,AI Directory,https://example.com/startup/120,OpenAI,6050,2026-06-23 21:05:02.517892
+1.0,STARTUP,AI Directory,https://example.com/startup/121,Anthropic,6100,2026-06-23 21:05:02.517893
+1.0,STARTUP,AI Directory,https://example.com/startup/122,Perplexity,6150,2026-06-23 21:05:02.517894
+1.0,STARTUP,AI Directory,https://example.com/startup/123,Mistral AI,6200,2026-06-23 21:05:02.517895
+1.0,STARTUP,AI Directory,https://example.com/startup/124,Cohere,6250,2026-06-23 21:05:02.517896
+1.0,STARTUP,AI Directory,https://example.com/startup/125,Runway,6300,2026-06-23 21:05:02.517897
+1.0,STARTUP,AI Directory,https://example.com/startup/126,Midjourney,6350,2026-06-23 21:05:02.517898
+1.0,STARTUP,AI Directory,https://example.com/startup/127,Hugging Face,6400,2026-06-23 21:05:02.517899
+1.0,STARTUP,AI Directory,https://example.com/startup/128,Stability AI,6450,2026-06-23 21:05:02.517903
+1.0,STARTUP,AI Directory,https://example.com/startup/129,Character AI,6500,2026-06-23 21:05:02.517904
+1.0,STARTUP,AI Directory,https://example.com/startup/130,OpenAI,6550,2026-06-23 21:05:02.517906
+1.0,STARTUP,AI Directory,https://example.com/startup/131,Anthropic,6600,2026-06-23 21:05:02.517907
+1.0,STARTUP,AI Directory,https://example.com/startup/132,Perplexity,6650,2026-06-23 21:05:02.517908
+1.0,STARTUP,AI Directory,https://example.com/startup/133,Mistral AI,6700,2026-06-23 21:05:02.517909
+1.0,STARTUP,AI Directory,https://example.com/startup/134,Cohere,6750,2026-06-23 21:05:02.517910
+1.0,STARTUP,AI Directory,https://example.com/startup/135,Runway,6800,2026-06-23 21:05:02.517911
+1.0,STARTUP,AI Directory,https://example.com/startup/136,Midjourney,6850,2026-06-23 21:05:02.517912
+1.0,STARTUP,AI Directory,https://example.com/startup/137,Hugging Face,6900,2026-06-23 21:05:02.517913
+1.0,STARTUP,AI Directory,https://example.com/startup/138,Stability AI,6950,2026-06-23 21:05:02.517915
+1.0,STARTUP,AI Directory,https://example.com/startup/139,Character AI,7000,2026-06-23 21:05:02.517916
+1.0,STARTUP,AI Directory,https://example.com/startup/140,OpenAI,7050,2026-06-23 21:05:02.517917
+1.0,STARTUP,AI Directory,https://example.com/startup/141,Anthropic,7100,2026-06-23 21:05:02.517918
+1.0,STARTUP,AI Directory,https://example.com/startup/142,Perplexity,7150,2026-06-23 21:05:02.517921
+1.0,STARTUP,AI Directory,https://example.com/startup/143,Mistral AI,7200,2026-06-23 21:05:02.517923
+1.0,STARTUP,AI Directory,https://example.com/startup/144,Cohere,7250,2026-06-23 21:05:02.517926
+1.0,STARTUP,AI Directory,https://example.com/startup/145,Runway,7300,2026-06-23 21:05:02.517927
+1.0,STARTUP,AI Directory,https://example.com/startup/146,Midjourney,7350,2026-06-23 21:05:02.517928
+1.0,STARTUP,AI Directory,https://example.com/startup/147,Hugging Face,7400,2026-06-23 21:05:02.517930
+1.0,STARTUP,AI Directory,https://example.com/startup/148,Stability AI,7450,2026-06-23 21:05:02.517933
+1.0,STARTUP,AI Directory,https://example.com/startup/149,Character AI,7500,2026-06-23 21:05:02.517935
+1.0,STARTUP,AI Directory,https://example.com/startup/150,OpenAI,7550,2026-06-23 21:05:02.517936
+1.0,STARTUP,AI Directory,https://example.com/startup/151,Anthropic,7600,2026-06-23 21:05:02.517937
+1.0,STARTUP,AI Directory,https://example.com/startup/152,Perplexity,7650,2026-06-23 21:05:02.517938
+1.0,STARTUP,AI Directory,https://example.com/startup/153,Mistral AI,7700,2026-06-23 21:05:02.517939
+1.0,STARTUP,AI Directory,https://example.com/startup/154,Cohere,7750,2026-06-23 21:05:02.517941
+1.0,STARTUP,AI Directory,https://example.com/startup/155,Runway,7800,2026-06-23 21:05:02.517942
+1.0,STARTUP,AI Directory,https://example.com/startup/156,Midjourney,7850,2026-06-23 21:05:02.517943
+1.0,STARTUP,AI Directory,https://example.com/startup/157,Hugging Face,7900,2026-06-23 21:05:02.517944
+1.0,STARTUP,AI Directory,https://example.com/startup/158,Stability AI,7950,2026-06-23 21:05:02.517945
+1.0,STARTUP,AI Directory,https://example.com/startup/159,Character AI,8000,2026-06-23 21:05:02.517946
+1.0,STARTUP,AI Directory,https://example.com/startup/160,OpenAI,8050,2026-06-23 21:05:02.517947
+1.0,STARTUP,AI Directory,https://example.com/startup/161,Anthropic,8100,2026-06-23 21:05:02.517948
+1.0,STARTUP,AI Directory,https://example.com/startup/162,Perplexity,8150,2026-06-23 21:05:02.517949
+1.0,STARTUP,AI Directory,https://example.com/startup/163,Mistral AI,8200,2026-06-23 21:05:02.517950
+1.0,STARTUP,AI Directory,https://example.com/startup/164,Cohere,8250,2026-06-23 21:05:02.517951
+1.0,STARTUP,AI Directory,https://example.com/startup/165,Runway,8300,2026-06-23 21:05:02.517952
+1.0,STARTUP,AI Directory,https://example.com/startup/166,Midjourney,8350,2026-06-23 21:05:02.517954
+1.0,STARTUP,AI Directory,https://example.com/startup/167,Hugging Face,8400,2026-06-23 21:05:02.517957
+1.0,STARTUP,AI Directory,https://example.com/startup/168,Stability AI,8450,2026-06-23 21:05:02.517958
+1.0,STARTUP,AI Directory,https://example.com/startup/169,Character AI,8500,2026-06-23 21:05:02.517959
+1.0,STARTUP,AI Directory,https://example.com/startup/170,OpenAI,8550,2026-06-23 21:05:02.517961
+1.0,STARTUP,AI Directory,https://example.com/startup/171,Anthropic,8600,2026-06-23 21:05:02.517964
+1.0,STARTUP,AI Directory,https://example.com/startup/172,Perplexity,8650,2026-06-23 21:05:02.517966
+1.0,STARTUP,AI Directory,https://example.com/startup/173,Mistral AI,8700,2026-06-23 21:05:02.517968
+1.0,STARTUP,AI Directory,https://example.com/startup/174,Cohere,8750,2026-06-23 21:05:02.517969
+1.0,STARTUP,AI Directory,https://example.com/startup/175,Runway,8800,2026-06-23 21:05:02.517970
+1.0,STARTUP,AI Directory,https://example.com/startup/176,Midjourney,8850,2026-06-23 21:05:02.517971
+1.0,STARTUP,AI Directory,https://example.com/startup/177,Hugging Face,8900,2026-06-23 21:05:02.517972
+1.0,STARTUP,AI Directory,https://example.com/startup/178,Stability AI,8950,2026-06-23 21:05:02.517973
+1.0,STARTUP,AI Directory,https://example.com/startup/179,Character AI,9000,2026-06-23 21:05:02.517974
+1.0,STARTUP,AI Directory,https://example.com/startup/180,OpenAI,9050,2026-06-23 21:05:02.517975
+1.0,STARTUP,AI Directory,https://example.com/startup/181,Anthropic,9100,2026-06-23 21:05:02.517977
+1.0,STARTUP,AI Directory,https://example.com/startup/182,Perplexity,9150,2026-06-23 21:05:02.517978
+1.0,STARTUP,AI Directory,https://example.com/startup/183,Mistral AI,9200,2026-06-23 21:05:02.517979
+1.0,STARTUP,AI Directory,https://example.com/startup/184,Cohere,9250,2026-06-23 21:05:02.517980
+1.0,STARTUP,AI Directory,https://example.com/startup/185,Runway,9300,2026-06-23 21:05:02.517981
+1.0,STARTUP,AI Directory,https://example.com/startup/186,Midjourney,9350,2026-06-23 21:05:02.517982
+1.0,STARTUP,AI Directory,https://example.com/startup/187,Hugging Face,9400,2026-06-23 21:05:02.517985
+1.0,STARTUP,AI Directory,https://example.com/startup/188,Stability AI,9450,2026-06-23 21:05:02.517987
+1.0,STARTUP,AI Directory,https://example.com/startup/189,Character AI,9500,2026-06-23 21:05:02.517988
+1.0,STARTUP,AI Directory,https://example.com/startup/190,OpenAI,9550,2026-06-23 21:05:02.517989
+1.0,STARTUP,AI Directory,https://example.com/startup/191,Anthropic,9600,2026-06-23 21:05:02.517990
+1.0,STARTUP,AI Directory,https://example.com/startup/192,Perplexity,9650,2026-06-23 21:05:02.517992
+1.0,STARTUP,AI Directory,https://example.com/startup/193,Mistral AI,9700,2026-06-23 21:05:02.517994
+1.0,STARTUP,AI Directory,https://example.com/startup/194,Cohere,9750,2026-06-23 21:05:02.517996
+1.0,STARTUP,AI Directory,https://example.com/startup/195,Runway,9800,2026-06-23 21:05:02.517997
+1.0,STARTUP,AI Directory,https://example.com/startup/196,Midjourney,9850,2026-06-23 21:05:02.517998
+1.0,STARTUP,AI Directory,https://example.com/startup/197,Hugging Face,9900,2026-06-23 21:05:02.517999
+1.0,STARTUP,AI Directory,https://example.com/startup/198,Stability AI,9950,2026-06-23 21:05:02.518000
+1.0,STARTUP,AI Directory,https://example.com/startup/199,Character AI,10000,2026-06-23 21:05:02.518002
+1.0,STARTUP,AI Directory,https://example.com/startup/200,OpenAI,10050,2026-06-23 21:05:02.518003
+1.0,STARTUP,AI Directory,https://example.com/startup/201,Anthropic,10100,2026-06-23 21:05:02.518005
+1.0,STARTUP,AI Directory,https://example.com/startup/202,Perplexity,10150,2026-06-23 21:05:02.518006
+1.0,STARTUP,AI Directory,https://example.com/startup/203,Mistral AI,10200,2026-06-23 21:05:02.518007
+1.0,STARTUP,AI Directory,https://example.com/startup/204,Cohere,10250,2026-06-23 21:05:02.518008
+1.0,STARTUP,AI Directory,https://example.com/startup/205,Runway,10300,2026-06-23 21:05:02.518009
+1.0,STARTUP,AI Directory,https://example.com/startup/206,Midjourney,10350,2026-06-23 21:05:02.518012
+1.0,STARTUP,AI Directory,https://example.com/startup/207,Hugging Face,10400,2026-06-23 21:05:02.518014
+1.0,STARTUP,AI Directory,https://example.com/startup/208,Stability AI,10450,2026-06-23 21:05:02.518017
+1.0,STARTUP,AI Directory,https://example.com/startup/209,Character AI,10500,2026-06-23 21:05:02.518018
+1.0,STARTUP,AI Directory,https://example.com/startup/210,OpenAI,10550,2026-06-23 21:05:02.518020
+1.0,STARTUP,AI Directory,https://example.com/startup/211,Anthropic,10600,2026-06-23 21:05:02.518021
+1.0,STARTUP,AI Directory,https://example.com/startup/212,Perplexity,10650,2026-06-23 21:05:02.518022
+1.0,STARTUP,AI Directory,https://example.com/startup/213,Mistral AI,10700,2026-06-23 21:05:02.518023
+1.0,STARTUP,AI Directory,https://example.com/startup/214,Cohere,10750,2026-06-23 21:05:02.518026
+1.0,STARTUP,AI Directory,https://example.com/startup/215,Runway,10800,2026-06-23 21:05:02.518027
+1.0,STARTUP,AI Directory,https://example.com/startup/216,Midjourney,10850,2026-06-23 21:05:02.518029
+1.0,STARTUP,AI Directory,https://example.com/startup/217,Hugging Face,10900,2026-06-23 21:05:02.518030
+1.0,STARTUP,AI Directory,https://example.com/startup/218,Stability AI,10950,2026-06-23 21:05:02.518031
+1.0,STARTUP,AI Directory,https://example.com/startup/219,Character AI,11000,2026-06-23 21:05:02.518032
+1.0,STARTUP,AI Directory,https://example.com/startup/220,OpenAI,11050,2026-06-23 21:05:02.518033
+1.0,STARTUP,AI Directory,https://example.com/startup/221,Anthropic,11100,2026-06-23 21:05:02.518034
+1.0,STARTUP,AI Directory,https://example.com/startup/222,Perplexity,11150,2026-06-23 21:05:02.518035
+1.0,STARTUP,AI Directory,https://example.com/startup/223,Mistral AI,11200,2026-06-23 21:05:02.518036
+1.0,STARTUP,AI Directory,https://example.com/startup/224,Cohere,11250,2026-06-23 21:05:02.518037
+1.0,STARTUP,AI Directory,https://example.com/startup/225,Runway,11300,2026-06-23 21:05:02.518039
+1.0,STARTUP,AI Directory,https://example.com/startup/226,Midjourney,11350,2026-06-23 21:05:02.518042
+1.0,STARTUP,AI Directory,https://example.com/startup/227,Hugging Face,11400,2026-06-23 21:05:02.518043
+1.0,STARTUP,AI Directory,https://example.com/startup/228,Stability AI,11450,2026-06-23 21:05:02.518044
+1.0,STARTUP,AI Directory,https://example.com/startup/229,Character AI,11500,2026-06-23 21:05:02.518046
+1.0,STARTUP,AI Directory,https://example.com/startup/230,OpenAI,11550,2026-06-23 21:05:02.518047
+1.0,STARTUP,AI Directory,https://example.com/startup/231,Anthropic,11600,2026-06-23 21:05:02.518048
+1.0,STARTUP,AI Directory,https://example.com/startup/232,Perplexity,11650,2026-06-23 21:05:02.518049
+1.0,STARTUP,AI Directory,https://example.com/startup/233,Mistral AI,11700,2026-06-23 21:05:02.518051
+1.0,STARTUP,AI Directory,https://example.com/startup/234,Cohere,11750,2026-06-23 21:05:02.518052
+1.0,STARTUP,AI Directory,https://example.com/startup/235,Runway,11800,2026-06-23 21:05:02.518053
+1.0,STARTUP,AI Directory,https://example.com/startup/236,Midjourney,11850,2026-06-23 21:05:02.518055
+1.0,STARTUP,AI Directory,https://example.com/startup/237,Hugging Face,11900,2026-06-23 21:05:02.518056
+1.0,STARTUP,AI Directory,https://example.com/startup/238,Stability AI,11950,2026-06-23 21:05:02.518057
+1.0,STARTUP,AI Directory,https://example.com/startup/239,Character AI,12000,2026-06-23 21:05:02.518058
+1.0,STARTUP,AI Directory,https://example.com/startup/240,OpenAI,12050,2026-06-23 21:05:02.518059
+1.0,STARTUP,AI Directory,https://example.com/startup/241,Anthropic,12100,2026-06-23 21:05:02.518060
+1.0,STARTUP,AI Directory,https://example.com/startup/242,Perplexity,12150,2026-06-23 21:05:02.518061
+1.0,STARTUP,AI Directory,https://example.com/startup/243,Mistral AI,12200,2026-06-23 21:05:02.518062
+1.0,STARTUP,AI Directory,https://example.com/startup/244,Cohere,12250,2026-06-23 21:05:02.518066
+1.0,STARTUP,AI Directory,https://example.com/startup/245,Runway,12300,2026-06-23 21:05:02.518069
+1.0,STARTUP,AI Directory,https://example.com/startup/246,Midjourney,12350,2026-06-23 21:05:02.518070
+1.0,STARTUP,AI Directory,https://example.com/startup/247,Hugging Face,12400,2026-06-23 21:05:02.518072
+1.0,STARTUP,AI Directory,https://example.com/startup/248,Stability AI,12450,2026-06-23 21:05:02.518073
+1.0,STARTUP,AI Directory,https://example.com/startup/249,Character AI,12500,2026-06-23 21:05:02.518074
+1.0,STARTUP,AI Directory,https://example.com/startup/250,OpenAI,12550,2026-06-23 21:05:02.518075
+1.0,STARTUP,AI Directory,https://example.com/startup/251,Anthropic,12600,2026-06-23 21:05:02.518076
+1.0,STARTUP,AI Directory,https://example.com/startup/252,Perplexity,12650,2026-06-23 21:05:02.518077
+1.0,STARTUP,AI Directory,https://example.com/startup/253,Mistral AI,12700,2026-06-23 21:05:02.518078
+1.0,STARTUP,AI Directory,https://example.com/startup/254,Cohere,12750,2026-06-23 21:05:02.518079
+1.0,STARTUP,AI Directory,https://example.com/startup/255,Runway,12800,2026-06-23 21:05:02.518083
+1.0,STARTUP,AI Directory,https://example.com/startup/256,Midjourney,12850,2026-06-23 21:05:02.518084
+1.0,STARTUP,AI Directory,https://example.com/startup/257,Hugging Face,12900,2026-06-23 21:05:02.518086
+1.0,STARTUP,AI Directory,https://example.com/startup/258,Stability AI,12950,2026-06-23 21:05:02.518088
+1.0,STARTUP,AI Directory,https://example.com/startup/259,Character AI,13000,2026-06-23 21:05:02.518089
+1.0,STARTUP,AI Directory,https://example.com/startup/260,OpenAI,13050,2026-06-23 21:05:02.518090
+1.0,STARTUP,AI Directory,https://example.com/startup/261,Anthropic,13100,2026-06-23 21:05:02.518091
+1.0,STARTUP,AI Directory,https://example.com/startup/262,Perplexity,13150,2026-06-23 21:05:02.518093
+1.0,STARTUP,AI Directory,https://example.com/startup/263,Mistral AI,13200,2026-06-23 21:05:02.518094
+1.0,STARTUP,AI Directory,https://example.com/startup/264,Cohere,13250,2026-06-23 21:05:02.518095
+1.0,STARTUP,AI Directory,https://example.com/startup/265,Runway,13300,2026-06-23 21:05:02.518098
+1.0,STARTUP,AI Directory,https://example.com/startup/266,Midjourney,13350,2026-06-23 21:05:02.518099
+1.0,STARTUP,AI Directory,https://example.com/startup/267,Hugging Face,13400,2026-06-23 21:05:02.518100
+1.0,STARTUP,AI Directory,https://example.com/startup/268,Stability AI,13450,2026-06-23 21:05:02.518102
+1.0,STARTUP,AI Directory,https://example.com/startup/269,Character AI,13500,2026-06-23 21:05:02.518104
+1.0,STARTUP,AI Directory,https://example.com/startup/270,OpenAI,13550,2026-06-23 21:05:02.518129
+1.0,STARTUP,AI Directory,https://example.com/startup/271,Anthropic,13600,2026-06-23 21:05:02.518133
+1.0,STARTUP,AI Directory,https://example.com/startup/272,Perplexity,13650,2026-06-23 21:05:02.518134
+1.0,STARTUP,AI Directory,https://example.com/startup/273,Mistral AI,13700,2026-06-23 21:05:02.518136
+1.0,STARTUP,AI Directory,https://example.com/startup/274,Cohere,13750,2026-06-23 21:05:02.518137
+1.0,STARTUP,AI Directory,https://example.com/startup/275,Runway,13800,2026-06-23 21:05:02.518138
+1.0,STARTUP,AI Directory,https://example.com/startup/276,Midjourney,13850,2026-06-23 21:05:02.518139
+1.0,STARTUP,AI Directory,https://example.com/startup/277,Hugging Face,13900,2026-06-23 21:05:02.518140
+1.0,STARTUP,AI Directory,https://example.com/startup/278,Stability AI,13950,2026-06-23 21:05:02.518142
+1.0,STARTUP,AI Directory,https://example.com/startup/279,Character AI,14000,2026-06-23 21:05:02.518143
+1.0,STARTUP,AI Directory,https://example.com/startup/280,OpenAI,14050,2026-06-23 21:05:02.518144
+1.0,STARTUP,AI Directory,https://example.com/startup/281,Anthropic,14100,2026-06-23 21:05:02.518145
+1.0,STARTUP,AI Directory,https://example.com/startup/282,Perplexity,14150,2026-06-23 21:05:02.518146
+1.0,STARTUP,AI Directory,https://example.com/startup/283,Mistral AI,14200,2026-06-23 21:05:02.518147
+1.0,STARTUP,AI Directory,https://example.com/startup/284,Cohere,14250,2026-06-23 21:05:02.518151
+1.0,STARTUP,AI Directory,https://example.com/startup/285,Runway,14300,2026-06-23 21:05:02.518152
+1.0,STARTUP,AI Directory,https://example.com/startup/286,Midjourney,14350,2026-06-23 21:05:02.518153
+1.0,STARTUP,AI Directory,https://example.com/startup/287,Hugging Face,14400,2026-06-23 21:05:02.518154
+1.0,STARTUP,AI Directory,https://example.com/startup/288,Stability AI,14450,2026-06-23 21:05:02.518155
+1.0,STARTUP,AI Directory,https://example.com/startup/289,Character AI,14500,2026-06-23 21:05:02.518157
+1.0,STARTUP,AI Directory,https://example.com/startup/290,OpenAI,14550,2026-06-23 21:05:02.518158
+1.0,STARTUP,AI Directory,https://example.com/startup/291,Anthropic,14600,2026-06-23 21:05:02.518159
+1.0,STARTUP,AI Directory,https://example.com/startup/292,Perplexity,14650,2026-06-23 21:05:02.518160
+1.0,STARTUP,AI Directory,https://example.com/startup/293,Mistral AI,14700,2026-06-23 21:05:02.518161
+1.0,STARTUP,AI Directory,https://example.com/startup/294,Cohere,14750,2026-06-23 21:05:02.518163
+1.0,STARTUP,AI Directory,https://example.com/startup/295,Runway,14800,2026-06-23 21:05:02.518164
+1.0,STARTUP,AI Directory,https://example.com/startup/296,Midjourney,14850,2026-06-23 21:05:02.518167
+1.0,STARTUP,AI Directory,https://example.com/startup/297,Hugging Face,14900,2026-06-23 21:05:02.518169
+1.0,STARTUP,AI Directory,https://example.com/startup/298,Stability AI,14950,2026-06-23 21:05:02.518170
+1.0,STARTUP,AI Directory,https://example.com/startup/299,Character AI,15000,2026-06-23 21:05:02.518171
+1.0,STARTUP,AI Directory,https://example.com/startup/300,OpenAI,15050,2026-06-23 21:05:02.518172
+1.0,STARTUP,AI Directory,https://example.com/startup/301,Anthropic,15100,2026-06-23 21:05:02.518173
+1.0,STARTUP,AI Directory,https://example.com/startup/302,Perplexity,15150,2026-06-23 21:05:02.518175
+1.0,STARTUP,AI Directory,https://example.com/startup/303,Mistral AI,15200,2026-06-23 21:05:02.518176
+1.0,STARTUP,AI Directory,https://example.com/startup/304,Cohere,15250,2026-06-23 21:05:02.518179
+1.0,STARTUP,AI Directory,https://example.com/startup/305,Runway,15300,2026-06-23 21:05:02.518180
+1.0,STARTUP,AI Directory,https://example.com/startup/306,Midjourney,15350,2026-06-23 21:05:02.518181
+1.0,STARTUP,AI Directory,https://example.com/startup/307,Hugging Face,15400,2026-06-23 21:05:02.518183
+1.0,STARTUP,AI Directory,https://example.com/startup/308,Stability AI,15450,2026-06-23 21:05:02.518184
+1.0,STARTUP,AI Directory,https://example.com/startup/309,Character AI,15500,2026-06-23 21:05:02.518186
+1.0,STARTUP,AI Directory,https://example.com/startup/310,OpenAI,15550,2026-06-23 21:05:02.518187
+1.0,STARTUP,AI Directory,https://example.com/startup/311,Anthropic,15600,2026-06-23 21:05:02.518188
+1.0,STARTUP,AI Directory,https://example.com/startup/312,Perplexity,15650,2026-06-23 21:05:02.518189
+1.0,STARTUP,AI Directory,https://example.com/startup/313,Mistral AI,15700,2026-06-23 21:05:02.518191
+1.0,STARTUP,AI Directory,https://example.com/startup/314,Cohere,15750,2026-06-23 21:05:02.518192
+1.0,STARTUP,AI Directory,https://example.com/startup/315,Runway,15800,2026-06-23 21:05:02.518193
+1.0,STARTUP,AI Directory,https://example.com/startup/316,Midjourney,15850,2026-06-23 21:05:02.518194
+1.0,STARTUP,AI Directory,https://example.com/startup/317,Hugging Face,15900,2026-06-23 21:05:02.518195
+1.0,STARTUP,AI Directory,https://example.com/startup/318,Stability AI,15950,2026-06-23 21:05:02.518196
+1.0,STARTUP,AI Directory,https://example.com/startup/319,Character AI,16000,2026-06-23 21:05:02.518197
+1.0,STARTUP,AI Directory,https://example.com/startup/320,OpenAI,16050,2026-06-23 21:05:02.518198
+1.0,STARTUP,AI Directory,https://example.com/startup/321,Anthropic,16100,2026-06-23 21:05:02.518199
+1.0,STARTUP,AI Directory,https://example.com/startup/322,Perplexity,16150,2026-06-23 21:05:02.518200
+1.0,STARTUP,AI Directory,https://example.com/startup/323,Mistral AI,16200,2026-06-23 21:05:02.518204
+1.0,STARTUP,AI Directory,https://example.com/startup/324,Cohere,16250,2026-06-23 21:05:02.518205
+1.0,STARTUP,AI Directory,https://example.com/startup/325,Runway,16300,2026-06-23 21:05:02.518206
+1.0,STARTUP,AI Directory,https://example.com/startup/326,Midjourney,16350,2026-06-23 21:05:02.518207
+1.0,STARTUP,AI Directory,https://example.com/startup/327,Hugging Face,16400,2026-06-23 21:05:02.518208
+1.0,STARTUP,AI Directory,https://example.com/startup/328,Stability AI,16450,2026-06-23 21:05:02.518209
+1.0,STARTUP,AI Directory,https://example.com/startup/329,Character AI,16500,2026-06-23 21:05:02.518246
+1.0,STARTUP,AI Directory,https://example.com/startup/330,OpenAI,16550,2026-06-23 21:05:02.518247
+1.0,STARTUP,AI Directory,https://example.com/startup/331,Anthropic,16600,2026-06-23 21:05:02.518248
+1.0,STARTUP,AI Directory,https://example.com/startup/332,Perplexity,16650,2026-06-23 21:05:02.518250
+1.0,STARTUP,AI Directory,https://example.com/startup/333,Mistral AI,16700,2026-06-23 21:05:02.518251
+1.0,STARTUP,AI Directory,https://example.com/startup/334,Cohere,16750,2026-06-23 21:05:02.518252
+1.0,STARTUP,AI Directory,https://example.com/startup/335,Runway,16800,2026-06-23 21:05:02.518255
+1.0,STARTUP,AI Directory,https://example.com/startup/336,Midjourney,16850,2026-06-23 21:05:02.518256
+1.0,STARTUP,AI Directory,https://example.com/startup/337,Hugging Face,16900,2026-06-23 21:05:02.518258
+1.0,STARTUP,AI Directory,https://example.com/startup/338,Stability AI,16950,2026-06-23 21:05:02.518259
+1.0,STARTUP,AI Directory,https://example.com/startup/339,Character AI,17000,2026-06-23 21:05:02.518260
+1.0,STARTUP,AI Directory,https://example.com/startup/340,OpenAI,17050,2026-06-23 21:05:02.518266
+1.0,STARTUP,AI Directory,https://example.com/startup/341,Anthropic,17100,2026-06-23 21:05:02.518267
+1.0,STARTUP,AI Directory,https://example.com/startup/342,Perplexity,17150,2026-06-23 21:05:02.518268
+1.0,STARTUP,AI Directory,https://example.com/startup/343,Mistral AI,17200,2026-06-23 21:05:02.518272
+1.0,STARTUP,AI Directory,https://example.com/startup/344,Cohere,17250,2026-06-23 21:05:02.518273
+1.0,STARTUP,AI Directory,https://example.com/startup/345,Runway,17300,2026-06-23 21:05:02.518274
+1.0,STARTUP,AI Directory,https://example.com/startup/346,Midjourney,17350,2026-06-23 21:05:02.518277
+1.0,STARTUP,AI Directory,https://example.com/startup/347,Hugging Face,17400,2026-06-23 21:05:02.518278
+1.0,STARTUP,AI Directory,https://example.com/startup/348,Stability AI,17450,2026-06-23 21:05:02.518280
+1.0,STARTUP,AI Directory,https://example.com/startup/349,Character AI,17500,2026-06-23 21:05:02.518281
+1.0,STARTUP,AI Directory,https://example.com/startup/350,OpenAI,17550,2026-06-23 21:05:02.518282
+1.0,STARTUP,AI Directory,https://example.com/startup/351,Anthropic,17600,2026-06-23 21:05:02.518283
+1.0,STARTUP,AI Directory,https://example.com/startup/352,Perplexity,17650,2026-06-23 21:05:02.518285
+1.0,STARTUP,AI Directory,https://example.com/startup/353,Mistral AI,17700,2026-06-23 21:05:02.518287
+1.0,STARTUP,AI Directory,https://example.com/startup/354,Cohere,17750,2026-06-23 21:05:02.518288
+1.0,STARTUP,AI Directory,https://example.com/startup/355,Runway,17800,2026-06-23 21:05:02.518290
+1.0,STARTUP,AI Directory,https://example.com/startup/356,Midjourney,17850,2026-06-23 21:05:02.518291
+1.0,STARTUP,AI Directory,https://example.com/startup/357,Hugging Face,17900,2026-06-23 21:05:02.518292
+1.0,STARTUP,AI Directory,https://example.com/startup/358,Stability AI,17950,2026-06-23 21:05:02.518293
+1.0,STARTUP,AI Directory,https://example.com/startup/359,Character AI,18000,2026-06-23 21:05:02.518294
+1.0,STARTUP,AI Directory,https://example.com/startup/360,OpenAI,18050,2026-06-23 21:05:02.518296
+1.0,STARTUP,AI Directory,https://example.com/startup/361,Anthropic,18100,2026-06-23 21:05:02.518297
+1.0,STARTUP,AI Directory,https://example.com/startup/362,Perplexity,18150,2026-06-23 21:05:02.518300
+1.0,STARTUP,AI Directory,https://example.com/startup/363,Mistral AI,18200,2026-06-23 21:05:02.518302
+1.0,STARTUP,AI Directory,https://example.com/startup/364,Cohere,18250,2026-06-23 21:05:02.518303
+1.0,STARTUP,AI Directory,https://example.com/startup/365,Runway,18300,2026-06-23 21:05:02.518304
+1.0,STARTUP,AI Directory,https://example.com/startup/366,Midjourney,18350,2026-06-23 21:05:02.518305
+1.0,STARTUP,AI Directory,https://example.com/startup/367,Hugging Face,18400,2026-06-23 21:05:02.518306
+1.0,STARTUP,AI Directory,https://example.com/startup/368,Stability AI,18450,2026-06-23 21:05:02.518307
+1.0,STARTUP,AI Directory,https://example.com/startup/369,Character AI,18500,2026-06-23 21:05:02.518309
+1.0,STARTUP,AI Directory,https://example.com/startup/370,OpenAI,18550,2026-06-23 21:05:02.518310
+1.0,STARTUP,AI Directory,https://example.com/startup/371,Anthropic,18600,2026-06-23 21:05:02.518311
+1.0,STARTUP,AI Directory,https://example.com/startup/372,Perplexity,18650,2026-06-23 21:05:02.518312
+1.0,STARTUP,AI Directory,https://example.com/startup/373,Mistral AI,18700,2026-06-23 21:05:02.518313
+1.0,STARTUP,AI Directory,https://example.com/startup/374,Cohere,18750,2026-06-23 21:05:02.518314
+1.0,STARTUP,AI Directory,https://example.com/startup/375,Runway,18800,2026-06-23 21:05:02.518315
+1.0,STARTUP,AI Directory,https://example.com/startup/376,Midjourney,18850,2026-06-23 21:05:02.518316
+1.0,STARTUP,AI Directory,https://example.com/startup/377,Hugging Face,18900,2026-06-23 21:05:02.518317
+1.0,STARTUP,AI Directory,https://example.com/startup/378,Stability AI,18950,2026-06-23 21:05:02.518318
+1.0,STARTUP,AI Directory,https://example.com/startup/379,Character AI,19000,2026-06-23 21:05:02.518320
+1.0,STARTUP,AI Directory,https://example.com/startup/380,OpenAI,19050,2026-06-23 21:05:02.518321
+1.0,STARTUP,AI Directory,https://example.com/startup/381,Anthropic,19100,2026-06-23 21:05:02.518322
+1.0,STARTUP,AI Directory,https://example.com/startup/382,Perplexity,19150,2026-06-23 21:05:02.518325
+1.0,STARTUP,AI Directory,https://example.com/startup/383,Mistral AI,19200,2026-06-23 21:05:02.518326
+1.0,STARTUP,AI Directory,https://example.com/startup/384,Cohere,19250,2026-06-23 21:05:02.518327
+1.0,STARTUP,AI Directory,https://example.com/startup/385,Runway,19300,2026-06-23 21:05:02.518329
+1.0,STARTUP,AI Directory,https://example.com/startup/386,Midjourney,19350,2026-06-23 21:05:02.518330
+1.0,STARTUP,AI Directory,https://example.com/startup/387,Hugging Face,19400,2026-06-23 21:05:02.518331
+1.0,STARTUP,AI Directory,https://example.com/startup/388,Stability AI,19450,2026-06-23 21:05:02.518332
+1.0,STARTUP,AI Directory,https://example.com/startup/389,Character AI,19500,2026-06-23 21:05:02.518333
+1.0,STARTUP,AI Directory,https://example.com/startup/390,OpenAI,19550,2026-06-23 21:05:02.518334
+1.0,STARTUP,AI Directory,https://example.com/startup/391,Anthropic,19600,2026-06-23 21:05:02.518336
+1.0,STARTUP,AI Directory,https://example.com/startup/392,Perplexity,19650,2026-06-23 21:05:02.518337
+1.0,STARTUP,AI Directory,https://example.com/startup/393,Mistral AI,19700,2026-06-23 21:05:02.518338
+1.0,STARTUP,AI Directory,https://example.com/startup/394,Cohere,19750,2026-06-23 21:05:02.518339
+1.0,STARTUP,AI Directory,https://example.com/startup/395,Runway,19800,2026-06-23 21:05:02.518340
+1.0,STARTUP,AI Directory,https://example.com/startup/396,Midjourney,19850,2026-06-23 21:05:02.518341
+1.0,STARTUP,AI Directory,https://example.com/startup/397,Hugging Face,19900,2026-06-23 21:05:02.518345
+1.0,STARTUP,AI Directory,https://example.com/startup/398,Stability AI,19950,2026-06-23 21:05:02.518346
+1.0,STARTUP,AI Directory,https://example.com/startup/399,Character AI,20000,2026-06-23 21:05:02.518349
+1.0,STARTUP,AI Directory,https://example.com/startup/400,OpenAI,20050,2026-06-23 21:05:02.518350
+1.0,STARTUP,AI Directory,https://example.com/startup/401,Anthropic,20100,2026-06-23 21:05:02.518355
+1.0,STARTUP,AI Directory,https://example.com/startup/402,Perplexity,20150,2026-06-23 21:05:02.518356
+1.0,STARTUP,AI Directory,https://example.com/startup/403,Mistral AI,20200,2026-06-23 21:05:02.518357
+1.0,STARTUP,AI Directory,https://example.com/startup/404,Cohere,20250,2026-06-23 21:05:02.518358
+1.0,STARTUP,AI Directory,https://example.com/startup/405,Runway,20300,2026-06-23 21:05:02.518359
+1.0,STARTUP,AI Directory,https://example.com/startup/406,Midjourney,20350,2026-06-23 21:05:02.518361
+1.0,STARTUP,AI Directory,https://example.com/startup/407,Hugging Face,20400,2026-06-23 21:05:02.518362
+1.0,STARTUP,AI Directory,https://example.com/startup/408,Stability AI,20450,2026-06-23 21:05:02.518363
+1.0,STARTUP,AI Directory,https://example.com/startup/409,Character AI,20500,2026-06-23 21:05:02.518364
+1.0,STARTUP,AI Directory,https://example.com/startup/410,OpenAI,20550,2026-06-23 21:05:02.518365
+1.0,STARTUP,AI Directory,https://example.com/startup/411,Anthropic,20600,2026-06-23 21:05:02.518366
+1.0,STARTUP,AI Directory,https://example.com/startup/412,Perplexity,20650,2026-06-23 21:05:02.518367
+1.0,STARTUP,AI Directory,https://example.com/startup/413,Mistral AI,20700,2026-06-23 21:05:02.518368
+1.0,STARTUP,AI Directory,https://example.com/startup/414,Cohere,20750,2026-06-23 21:05:02.518370
+1.0,STARTUP,AI Directory,https://example.com/startup/415,Runway,20800,2026-06-23 21:05:02.518371
+1.0,STARTUP,AI Directory,https://example.com/startup/416,Midjourney,20850,2026-06-23 21:05:02.518372
+1.0,STARTUP,AI Directory,https://example.com/startup/417,Hugging Face,20900,2026-06-23 21:05:02.518373
+1.0,STARTUP,AI Directory,https://example.com/startup/418,Stability AI,20950,2026-06-23 21:05:02.518374
+1.0,STARTUP,AI Directory,https://example.com/startup/419,Character AI,21000,2026-06-23 21:05:02.518375
+1.0,STARTUP,AI Directory,https://example.com/startup/420,OpenAI,21050,2026-06-23 21:05:02.518376
+1.0,STARTUP,AI Directory,https://example.com/startup/421,Anthropic,21100,2026-06-23 21:05:02.518383
+1.0,STARTUP,AI Directory,https://example.com/startup/422,Perplexity,21150,2026-06-23 21:05:02.518384
+1.0,STARTUP,AI Directory,https://example.com/startup/423,Mistral AI,21200,2026-06-23 21:05:02.518385
+1.0,STARTUP,AI Directory,https://example.com/startup/424,Cohere,21250,2026-06-23 21:05:02.518386
+1.0,STARTUP,AI Directory,https://example.com/startup/425,Runway,21300,2026-06-23 21:05:02.518389
+1.0,STARTUP,AI Directory,https://example.com/startup/426,Midjourney,21350,2026-06-23 21:05:02.518390
+1.0,STARTUP,AI Directory,https://example.com/startup/427,Hugging Face,21400,2026-06-23 21:05:02.518391
+1.0,STARTUP,AI Directory,https://example.com/startup/428,Stability AI,21450,2026-06-23 21:05:02.518392
+1.0,STARTUP,AI Directory,https://example.com/startup/429,Character AI,21500,2026-06-23 21:05:02.518393
+1.0,STARTUP,AI Directory,https://example.com/startup/430,OpenAI,21550,2026-06-23 21:05:02.518394
+1.0,STARTUP,AI Directory,https://example.com/startup/431,Anthropic,21600,2026-06-23 21:05:02.518395
+1.0,STARTUP,AI Directory,https://example.com/startup/432,Perplexity,21650,2026-06-23 21:05:02.518396
+1.0,STARTUP,AI Directory,https://example.com/startup/433,Mistral AI,21700,2026-06-23 21:05:02.518397
+1.0,STARTUP,AI Directory,https://example.com/startup/434,Cohere,21750,2026-06-23 21:05:02.518398
+1.0,STARTUP,AI Directory,https://example.com/startup/435,Runway,21800,2026-06-23 21:05:02.518398
+1.0,STARTUP,AI Directory,https://example.com/startup/436,Midjourney,21850,2026-06-23 21:05:02.518399
+1.0,STARTUP,AI Directory,https://example.com/startup/437,Hugging Face,21900,2026-06-23 21:05:02.518400
+1.0,STARTUP,AI Directory,https://example.com/startup/438,Stability AI,21950,2026-06-23 21:05:02.518401
+1.0,STARTUP,AI Directory,https://example.com/startup/439,Character AI,22000,2026-06-23 21:05:02.518402
+1.0,STARTUP,AI Directory,https://example.com/startup/440,OpenAI,22050,2026-06-23 21:05:02.518405
+1.0,STARTUP,AI Directory,https://example.com/startup/441,Anthropic,22100,2026-06-23 21:05:02.518406
+1.0,STARTUP,AI Directory,https://example.com/startup/442,Perplexity,22150,2026-06-23 21:05:02.518407
+1.0,STARTUP,AI Directory,https://example.com/startup/443,Mistral AI,22200,2026-06-23 21:05:02.518408
+1.0,STARTUP,AI Directory,https://example.com/startup/444,Cohere,22250,2026-06-23 21:05:02.518409
+1.0,STARTUP,AI Directory,https://example.com/startup/445,Runway,22300,2026-06-23 21:05:02.518410
+1.0,STARTUP,AI Directory,https://example.com/startup/446,Midjourney,22350,2026-06-23 21:05:02.518411
+1.0,STARTUP,AI Directory,https://example.com/startup/447,Hugging Face,22400,2026-06-23 21:05:02.518412
+1.0,STARTUP,AI Directory,https://example.com/startup/448,Stability AI,22450,2026-06-23 21:05:02.518414
+1.0,STARTUP,AI Directory,https://example.com/startup/449,Character AI,22500,2026-06-23 21:05:02.518415
+1.0,STARTUP,AI Directory,https://example.com/startup/450,OpenAI,22550,2026-06-23 21:05:02.518416
+1.0,STARTUP,AI Directory,https://example.com/startup/451,Anthropic,22600,2026-06-23 21:05:02.518417
+1.0,STARTUP,AI Directory,https://example.com/startup/452,Perplexity,22650,2026-06-23 21:05:02.518418
+1.0,STARTUP,AI Directory,https://example.com/startup/453,Mistral AI,22700,2026-06-23 21:05:02.518419
+1.0,STARTUP,AI Directory,https://example.com/startup/454,Cohere,22750,2026-06-23 21:05:02.518420
+1.0,STARTUP,AI Directory,https://example.com/startup/455,Runway,22800,2026-06-23 21:05:02.518421
+1.0,STARTUP,AI Directory,https://example.com/startup/456,Midjourney,22850,2026-06-23 21:05:02.518422
+1.0,STARTUP,AI Directory,https://example.com/startup/457,Hugging Face,22900,2026-06-23 21:05:02.518424
+1.0,STARTUP,AI Directory,https://example.com/startup/458,Stability AI,22950,2026-06-23 21:05:02.518425
+1.0,STARTUP,AI Directory,https://example.com/startup/459,Character AI,23000,2026-06-23 21:05:02.518426
+1.0,STARTUP,AI Directory,https://example.com/startup/460,OpenAI,23050,2026-06-23 21:05:02.518429
+1.0,STARTUP,AI Directory,https://example.com/startup/461,Anthropic,23100,2026-06-23 21:05:02.518430
+1.0,STARTUP,AI Directory,https://example.com/startup/462,Perplexity,23150,2026-06-23 21:05:02.518431
+1.0,STARTUP,AI Directory,https://example.com/startup/463,Mistral AI,23200,2026-06-23 21:05:02.518434
+1.0,STARTUP,AI Directory,https://example.com/startup/464,Cohere,23250,2026-06-23 21:05:02.518435
+1.0,STARTUP,AI Directory,https://example.com/startup/465,Runway,23300,2026-06-23 21:05:02.518436
+1.0,STARTUP,AI Directory,https://example.com/startup/466,Midjourney,23350,2026-06-23 21:05:02.518437
+1.0,STARTUP,AI Directory,https://example.com/startup/467,Hugging Face,23400,2026-06-23 21:05:02.518438
+1.0,STARTUP,AI Directory,https://example.com/startup/468,Stability AI,23450,2026-06-23 21:05:02.518441
+1.0,STARTUP,AI Directory,https://example.com/startup/469,Character AI,23500,2026-06-23 21:05:02.518442
+1.0,STARTUP,AI Directory,https://example.com/startup/470,OpenAI,23550,2026-06-23 21:05:02.518443
+1.0,STARTUP,AI Directory,https://example.com/startup/471,Anthropic,23600,2026-06-23 21:05:02.518444
+1.0,STARTUP,AI Directory,https://example.com/startup/472,Perplexity,23650,2026-06-23 21:05:02.518445
+1.0,STARTUP,AI Directory,https://example.com/startup/473,Mistral AI,23700,2026-06-23 21:05:02.518446
+1.0,STARTUP,AI Directory,https://example.com/startup/474,Cohere,23750,2026-06-23 21:05:02.518447
+1.0,STARTUP,AI Directory,https://example.com/startup/475,Runway,23800,2026-06-23 21:05:02.518448
+1.0,STARTUP,AI Directory,https://example.com/startup/476,Midjourney,23850,2026-06-23 21:05:02.518449
+1.0,STARTUP,AI Directory,https://example.com/startup/477,Hugging Face,23900,2026-06-23 21:05:02.518450
+1.0,STARTUP,AI Directory,https://example.com/startup/478,Stability AI,23950,2026-06-23 21:05:02.518451
+1.0,STARTUP,AI Directory,https://example.com/startup/479,Character AI,24000,2026-06-23 21:05:02.518453
+1.0,STARTUP,AI Directory,https://example.com/startup/480,OpenAI,24050,2026-06-23 21:05:02.518454
+1.0,STARTUP,AI Directory,https://example.com/startup/481,Anthropic,24100,2026-06-23 21:05:02.518455
+1.0,STARTUP,AI Directory,https://example.com/startup/482,Perplexity,24150,2026-06-23 21:05:02.518456
+1.0,STARTUP,AI Directory,https://example.com/startup/483,Mistral AI,24200,2026-06-23 21:05:02.518457
+1.0,STARTUP,AI Directory,https://example.com/startup/484,Cohere,24250,2026-06-23 21:05:02.518459
+1.0,STARTUP,AI Directory,https://example.com/startup/485,Runway,24300,2026-06-23 21:05:02.518460
+1.0,STARTUP,AI Directory,https://example.com/startup/486,Midjourney,24350,2026-06-23 21:05:02.518461
+1.0,STARTUP,AI Directory,https://example.com/startup/487,Hugging Face,24400,2026-06-23 21:05:02.518462
+1.0,STARTUP,AI Directory,https://example.com/startup/488,Stability AI,24450,2026-06-23 21:05:02.518463
+1.0,STARTUP,AI Directory,https://example.com/startup/489,Character AI,24500,2026-06-23 21:05:02.518464
+1.0,STARTUP,AI Directory,https://example.com/startup/490,OpenAI,24550,2026-06-23 21:05:02.518465
+1.0,STARTUP,AI Directory,https://example.com/startup/491,Anthropic,24600,2026-06-23 21:05:02.518466
+1.0,STARTUP,AI Directory,https://example.com/startup/492,Perplexity,24650,2026-06-23 21:05:02.518467
+1.0,STARTUP,AI Directory,https://example.com/startup/493,Mistral AI,24700,2026-06-23 21:05:02.518467
+1.0,STARTUP,AI Directory,https://example.com/startup/494,Cohere,24750,2026-06-23 21:05:02.518468
+1.0,STARTUP,AI Directory,https://example.com/startup/495,Runway,24800,2026-06-23 21:05:02.518469
+1.0,STARTUP,AI Directory,https://example.com/startup/496,Midjourney,24850,2026-06-23 21:05:02.518470
+1.0,STARTUP,AI Directory,https://example.com/startup/497,Hugging Face,24900,2026-06-23 21:05:02.518471
+1.0,STARTUP,AI Directory,https://example.com/startup/498,Stability AI,24950,2026-06-23 21:05:02.518472
+1.0,STARTUP,AI Directory,https://example.com/startup/499,Character AI,25000,2026-06-23 21:05:02.518475
+1.0,STARTUP,AI Directory,https://example.com/startup/500,OpenAI,25050,2026-06-23 21:05:02.518478
+1.0,STARTUP,AI Directory,https://example.com/startup/501,Anthropic,25100,2026-06-23 21:05:02.518480
+1.0,STARTUP,AI Directory,https://example.com/startup/502,Perplexity,25150,2026-06-23 21:05:02.518481
+1.0,STARTUP,AI Directory,https://example.com/startup/503,Mistral AI,25200,2026-06-23 21:05:02.518482
+1.0,STARTUP,AI Directory,https://example.com/startup/504,Cohere,25250,2026-06-23 21:05:02.518483
+1.0,STARTUP,AI Directory,https://example.com/startup/505,Runway,25300,2026-06-23 21:05:02.518484
+1.0,STARTUP,AI Directory,https://example.com/startup/506,Midjourney,25350,2026-06-23 21:05:02.518485
+1.0,STARTUP,AI Directory,https://example.com/startup/507,Hugging Face,25400,2026-06-23 21:05:02.518486
+1.0,STARTUP,AI Directory,https://example.com/startup/508,Stability AI,25450,2026-06-23 21:05:02.518487
+1.0,STARTUP,AI Directory,https://example.com/startup/509,Character AI,25500,2026-06-23 21:05:02.518488
+1.0,STARTUP,AI Directory,https://example.com/startup/510,OpenAI,25550,2026-06-23 21:05:02.518489
+1.0,STARTUP,AI Directory,https://example.com/startup/511,Anthropic,25600,2026-06-23 21:05:02.518492
+1.0,STARTUP,AI Directory,https://example.com/startup/512,Perplexity,25650,2026-06-23 21:05:02.518493
+1.0,STARTUP,AI Directory,https://example.com/startup/513,Mistral AI,25700,2026-06-23 21:05:02.518494
+1.0,STARTUP,AI Directory,https://example.com/startup/514,Cohere,25750,2026-06-23 21:05:02.518495
+1.0,STARTUP,AI Directory,https://example.com/startup/515,Runway,25800,2026-06-23 21:05:02.518496
+1.0,STARTUP,AI Directory,https://example.com/startup/516,Midjourney,25850,2026-06-23 21:05:02.518497
+1.0,STARTUP,AI Directory,https://example.com/startup/517,Hugging Face,25900,2026-06-23 21:05:02.518498
+1.0,STARTUP,AI Directory,https://example.com/startup/518,Stability AI,25950,2026-06-23 21:05:02.518501
+1.0,STARTUP,AI Directory,https://example.com/startup/519,Character AI,26000,2026-06-23 21:05:02.518502
+1.0,STARTUP,AI Directory,https://example.com/startup/520,OpenAI,26050,2026-06-23 21:05:02.518503
+1.0,STARTUP,AI Directory,https://example.com/startup/521,Anthropic,26100,2026-06-23 21:05:02.518505
+1.0,STARTUP,AI Directory,https://example.com/startup/522,Perplexity,26150,2026-06-23 21:05:02.518506
+1.0,STARTUP,AI Directory,https://example.com/startup/523,Mistral AI,26200,2026-06-23 21:05:02.518507
+1.0,STARTUP,AI Directory,https://example.com/startup/524,Cohere,26250,2026-06-23 21:05:02.518508
+1.0,STARTUP,AI Directory,https://example.com/startup/525,Runway,26300,2026-06-23 21:05:02.518509
+1.0,STARTUP,AI Directory,https://example.com/startup/526,Midjourney,26350,2026-06-23 21:05:02.518512
+1.0,STARTUP,AI Directory,https://example.com/startup/527,Hugging Face,26400,2026-06-23 21:05:02.518513
+1.0,STARTUP,AI Directory,https://example.com/startup/528,Stability AI,26450,2026-06-23 21:05:02.518514
+1.0,STARTUP,AI Directory,https://example.com/startup/529,Character AI,26500,2026-06-23 21:05:02.518515
+1.0,STARTUP,AI Directory,https://example.com/startup/530,OpenAI,26550,2026-06-23 21:05:02.518516
+1.0,STARTUP,AI Directory,https://example.com/startup/531,Anthropic,26600,2026-06-23 21:05:02.518517
+1.0,STARTUP,AI Directory,https://example.com/startup/532,Perplexity,26650,2026-06-23 21:05:02.518518
+1.0,STARTUP,AI Directory,https://example.com/startup/533,Mistral AI,26700,2026-06-23 21:05:02.518519
+1.0,STARTUP,AI Directory,https://example.com/startup/534,Cohere,26750,2026-06-23 21:05:02.518520
+1.0,STARTUP,AI Directory,https://example.com/startup/535,Runway,26800,2026-06-23 21:05:02.518521
+1.0,STARTUP,AI Directory,https://example.com/startup/536,Midjourney,26850,2026-06-23 21:05:02.518522
+1.0,STARTUP,AI Directory,https://example.com/startup/537,Hugging Face,26900,2026-06-23 21:05:02.518523
+1.0,STARTUP,AI Directory,https://example.com/startup/538,Stability AI,26950,2026-06-23 21:05:02.518525
+1.0,STARTUP,AI Directory,https://example.com/startup/539,Character AI,27000,2026-06-23 21:05:02.518526
+1.0,STARTUP,AI Directory,https://example.com/startup/540,OpenAI,27050,2026-06-23 21:05:02.518527
+1.0,STARTUP,AI Directory,https://example.com/startup/541,Anthropic,27100,2026-06-23 21:05:02.518528
+1.0,STARTUP,AI Directory,https://example.com/startup/542,Perplexity,27150,2026-06-23 21:05:02.518529
+1.0,STARTUP,AI Directory,https://example.com/startup/543,Mistral AI,27200,2026-06-23 21:05:02.518530
+1.0,STARTUP,AI Directory,https://example.com/startup/544,Cohere,27250,2026-06-23 21:05:02.518531
+1.0,STARTUP,AI Directory,https://example.com/startup/545,Runway,27300,2026-06-23 21:05:02.518532
+1.0,STARTUP,AI Directory,https://example.com/startup/546,Midjourney,27350,2026-06-23 21:05:02.518533
+1.0,STARTUP,AI Directory,https://example.com/startup/547,Hugging Face,27400,2026-06-23 21:05:02.518534
+1.0,STARTUP,AI Directory,https://example.com/startup/548,Stability AI,27450,2026-06-23 21:05:02.518535
+1.0,STARTUP,AI Directory,https://example.com/startup/549,Character AI,27500,2026-06-23 21:05:02.518536
+1.0,STARTUP,AI Directory,https://example.com/startup/550,OpenAI,27550,2026-06-23 21:05:02.518538
+1.0,STARTUP,AI Directory,https://example.com/startup/551,Anthropic,27600,2026-06-23 21:05:02.518539
+1.0,STARTUP,AI Directory,https://example.com/startup/552,Perplexity,27650,2026-06-23 21:05:02.518540
+1.0,STARTUP,AI Directory,https://example.com/startup/553,Mistral AI,27700,2026-06-23 21:05:02.518541
+1.0,STARTUP,AI Directory,https://example.com/startup/554,Cohere,27750,2026-06-23 21:05:02.518542
+1.0,STARTUP,AI Directory,https://example.com/startup/555,Runway,27800,2026-06-23 21:05:02.518543
+1.0,STARTUP,AI Directory,https://example.com/startup/556,Midjourney,27850,2026-06-23 21:05:02.518544
+1.0,STARTUP,AI Directory,https://example.com/startup/557,Hugging Face,27900,2026-06-23 21:05:02.518547
+1.0,STARTUP,AI Directory,https://example.com/startup/558,Stability AI,27950,2026-06-23 21:05:02.518548
+1.0,STARTUP,AI Directory,https://example.com/startup/559,Character AI,28000,2026-06-23 21:05:02.518549
+1.0,STARTUP,AI Directory,https://example.com/startup/560,OpenAI,28050,2026-06-23 21:05:02.518550
+1.0,STARTUP,AI Directory,https://example.com/startup/561,Anthropic,28100,2026-06-23 21:05:02.518551
+1.0,STARTUP,AI Directory,https://example.com/startup/562,Perplexity,28150,2026-06-23 21:05:02.518552
+1.0,STARTUP,AI Directory,https://example.com/startup/563,Mistral AI,28200,2026-06-23 21:05:02.518553
+1.0,STARTUP,AI Directory,https://example.com/startup/564,Cohere,28250,2026-06-23 21:05:02.518554
+1.0,STARTUP,AI Directory,https://example.com/startup/565,Runway,28300,2026-06-23 21:05:02.518555
+1.0,STARTUP,AI Directory,https://example.com/startup/566,Midjourney,28350,2026-06-23 21:05:02.518556
+1.0,STARTUP,AI Directory,https://example.com/startup/567,Hugging Face,28400,2026-06-23 21:05:02.518557
+1.0,STARTUP,AI Directory,https://example.com/startup/568,Stability AI,28450,2026-06-23 21:05:02.518557
+1.0,STARTUP,AI Directory,https://example.com/startup/569,Character AI,28500,2026-06-23 21:05:02.518558
+1.0,STARTUP,AI Directory,https://example.com/startup/570,OpenAI,28550,2026-06-23 21:05:02.518559
+1.0,STARTUP,AI Directory,https://example.com/startup/571,Anthropic,28600,2026-06-23 21:05:02.518560
+1.0,STARTUP,AI Directory,https://example.com/startup/572,Perplexity,28650,2026-06-23 21:05:02.518561
+1.0,STARTUP,AI Directory,https://example.com/startup/573,Mistral AI,28700,2026-06-23 21:05:02.518562
+1.0,STARTUP,AI Directory,https://example.com/startup/574,Cohere,28750,2026-06-23 21:05:02.518563
+1.0,STARTUP,AI Directory,https://example.com/startup/575,Runway,28800,2026-06-23 21:05:02.518564
+1.0,STARTUP,AI Directory,https://example.com/startup/576,Midjourney,28850,2026-06-23 21:05:02.518565
+1.0,STARTUP,AI Directory,https://example.com/startup/577,Hugging Face,28900,2026-06-23 21:05:02.518578
+1.0,STARTUP,AI Directory,https://example.com/startup/578,Stability AI,28950,2026-06-23 21:05:02.518579
+1.0,STARTUP,AI Directory,https://example.com/startup/579,Character AI,29000,2026-06-23 21:05:02.518580
+1.0,STARTUP,AI Directory,https://example.com/startup/580,OpenAI,29050,2026-06-23 21:05:02.518581
+1.0,STARTUP,AI Directory,https://example.com/startup/581,Anthropic,29100,2026-06-23 21:05:02.518582
+1.0,STARTUP,AI Directory,https://example.com/startup/582,Perplexity,29150,2026-06-23 21:05:02.518583
+1.0,STARTUP,AI Directory,https://example.com/startup/583,Mistral AI,29200,2026-06-23 21:05:02.518584
+1.0,STARTUP,AI Directory,https://example.com/startup/584,Cohere,29250,2026-06-23 21:05:02.518585
+1.0,STARTUP,AI Directory,https://example.com/startup/585,Runway,29300,2026-06-23 21:05:02.518586
+1.0,STARTUP,AI Directory,https://example.com/startup/586,Midjourney,29350,2026-06-23 21:05:02.518587
+1.0,STARTUP,AI Directory,https://example.com/startup/587,Hugging Face,29400,2026-06-23 21:05:02.518588
+1.0,STARTUP,AI Directory,https://example.com/startup/588,Stability AI,29450,2026-06-23 21:05:02.518589
+1.0,STARTUP,AI Directory,https://example.com/startup/589,Character AI,29500,2026-06-23 21:05:02.518590
+1.0,STARTUP,AI Directory,https://example.com/startup/590,OpenAI,29550,2026-06-23 21:05:02.518593
+1.0,STARTUP,AI Directory,https://example.com/startup/591,Anthropic,29600,2026-06-23 21:05:02.518594
+1.0,STARTUP,AI Directory,https://example.com/startup/592,Perplexity,29650,2026-06-23 21:05:02.518595
+1.0,STARTUP,AI Directory,https://example.com/startup/593,Mistral AI,29700,2026-06-23 21:05:02.518597
+1.0,STARTUP,AI Directory,https://example.com/startup/594,Cohere,29750,2026-06-23 21:05:02.518600
+1.0,STARTUP,AI Directory,https://example.com/startup/595,Runway,29800,2026-06-23 21:05:02.518603
+1.0,STARTUP,AI Directory,https://example.com/startup/596,Midjourney,29850,2026-06-23 21:05:02.518606
+1.0,STARTUP,AI Directory,https://example.com/startup/597,Hugging Face,29900,2026-06-23 21:05:02.518607
+1.0,STARTUP,AI Directory,https://example.com/startup/598,Stability AI,29950,2026-06-23 21:05:02.518608
+1.0,STARTUP,AI Directory,https://example.com/startup/599,Character AI,30000,2026-06-23 21:05:02.518609
+1.0,STARTUP,AI Directory,https://example.com/startup/600,OpenAI,30050,2026-06-23 21:05:02.518610
+1.0,STARTUP,AI Directory,https://example.com/startup/601,Anthropic,30100,2026-06-23 21:05:02.518613
+1.0,STARTUP,AI Directory,https://example.com/startup/602,Perplexity,30150,2026-06-23 21:05:02.518614
+1.0,STARTUP,AI Directory,https://example.com/startup/603,Mistral AI,30200,2026-06-23 21:05:02.518615
+1.0,STARTUP,AI Directory,https://example.com/startup/604,Cohere,30250,2026-06-23 21:05:02.518616
+1.0,STARTUP,AI Directory,https://example.com/startup/605,Runway,30300,2026-06-23 21:05:02.518617
+1.0,STARTUP,AI Directory,https://example.com/startup/606,Midjourney,30350,2026-06-23 21:05:02.518618
+1.0,STARTUP,AI Directory,https://example.com/startup/607,Hugging Face,30400,2026-06-23 21:05:02.518619
+1.0,STARTUP,AI Directory,https://example.com/startup/608,Stability AI,30450,2026-06-23 21:05:02.518620
+1.0,STARTUP,AI Directory,https://example.com/startup/609,Character AI,30500,2026-06-23 21:05:02.518621
+1.0,STARTUP,AI Directory,https://example.com/startup/610,OpenAI,30550,2026-06-23 21:05:02.518622
+1.0,STARTUP,AI Directory,https://example.com/startup/611,Anthropic,30600,2026-06-23 21:05:02.518623
+1.0,STARTUP,AI Directory,https://example.com/startup/612,Perplexity,30650,2026-06-23 21:05:02.518624
+1.0,STARTUP,AI Directory,https://example.com/startup/613,Mistral AI,30700,2026-06-23 21:05:02.518625
+1.0,STARTUP,AI Directory,https://example.com/startup/614,Cohere,30750,2026-06-23 21:05:02.518626
+1.0,STARTUP,AI Directory,https://example.com/startup/615,Runway,30800,2026-06-23 21:05:02.518627
+1.0,STARTUP,AI Directory,https://example.com/startup/616,Midjourney,30850,2026-06-23 21:05:02.518629
+1.0,STARTUP,AI Directory,https://example.com/startup/617,Hugging Face,30900,2026-06-23 21:05:02.518630
+1.0,STARTUP,AI Directory,https://example.com/startup/618,Stability AI,30950,2026-06-23 21:05:02.518631
+1.0,STARTUP,AI Directory,https://example.com/startup/619,Character AI,31000,2026-06-23 21:05:02.518632
+1.0,STARTUP,AI Directory,https://example.com/startup/620,OpenAI,31050,2026-06-23 21:05:02.518633
+1.0,STARTUP,AI Directory,https://example.com/startup/621,Anthropic,31100,2026-06-23 21:05:02.518634
+1.0,STARTUP,AI Directory,https://example.com/startup/622,Perplexity,31150,2026-06-23 21:05:02.518635
+1.0,STARTUP,AI Directory,https://example.com/startup/623,Mistral AI,31200,2026-06-23 21:05:02.518636
+1.0,STARTUP,AI Directory,https://example.com/startup/624,Cohere,31250,2026-06-23 21:05:02.518637
+1.0,STARTUP,AI Directory,https://example.com/startup/625,Runway,31300,2026-06-23 21:05:02.518638
+1.0,STARTUP,AI Directory,https://example.com/startup/626,Midjourney,31350,2026-06-23 21:05:02.518639
+1.0,STARTUP,AI Directory,https://example.com/startup/627,Hugging Face,31400,2026-06-23 21:05:02.518640
+1.0,STARTUP,AI Directory,https://example.com/startup/628,Stability AI,31450,2026-06-23 21:05:02.518641
+1.0,STARTUP,AI Directory,https://example.com/startup/629,Character AI,31500,2026-06-23 21:05:02.518642
+1.0,STARTUP,AI Directory,https://example.com/startup/630,OpenAI,31550,2026-06-23 21:05:02.518643
+1.0,STARTUP,AI Directory,https://example.com/startup/631,Anthropic,31600,2026-06-23 21:05:02.518644
+1.0,STARTUP,AI Directory,https://example.com/startup/632,Perplexity,31650,2026-06-23 21:05:02.518645
+1.0,STARTUP,AI Directory,https://example.com/startup/633,Mistral AI,31700,2026-06-23 21:05:02.518645
+1.0,STARTUP,AI Directory,https://example.com/startup/634,Cohere,31750,2026-06-23 21:05:02.518646
+1.0,STARTUP,AI Directory,https://example.com/startup/635,Runway,31800,2026-06-23 21:05:02.518649
+1.0,STARTUP,AI Directory,https://example.com/startup/636,Midjourney,31850,2026-06-23 21:05:02.518650
+1.0,STARTUP,AI Directory,https://example.com/startup/637,Hugging Face,31900,2026-06-23 21:05:02.518651
+1.0,STARTUP,AI Directory,https://example.com/startup/638,Stability AI,31950,2026-06-23 21:05:02.518652
+1.0,STARTUP,AI Directory,https://example.com/startup/639,Character AI,32000,2026-06-23 21:05:02.518653
+1.0,STARTUP,AI Directory,https://example.com/startup/640,OpenAI,32050,2026-06-23 21:05:02.518654
+1.0,STARTUP,AI Directory,https://example.com/startup/641,Anthropic,32100,2026-06-23 21:05:02.518655
+1.0,STARTUP,AI Directory,https://example.com/startup/642,Perplexity,32150,2026-06-23 21:05:02.518656
+1.0,STARTUP,AI Directory,https://example.com/startup/643,Mistral AI,32200,2026-06-23 21:05:02.518657
+1.0,STARTUP,AI Directory,https://example.com/startup/644,Cohere,32250,2026-06-23 21:05:02.518658
+1.0,STARTUP,AI Directory,https://example.com/startup/645,Runway,32300,2026-06-23 21:05:02.518659
+1.0,STARTUP,AI Directory,https://example.com/startup/646,Midjourney,32350,2026-06-23 21:05:02.518660
+1.0,STARTUP,AI Directory,https://example.com/startup/647,Hugging Face,32400,2026-06-23 21:05:02.518661
+1.0,STARTUP,AI Directory,https://example.com/startup/648,Stability AI,32450,2026-06-23 21:05:02.518662
+1.0,STARTUP,AI Directory,https://example.com/startup/649,Character AI,32500,2026-06-23 21:05:02.518663
+1.0,STARTUP,AI Directory,https://example.com/startup/650,OpenAI,32550,2026-06-23 21:05:02.518664
+1.0,STARTUP,AI Directory,https://example.com/startup/651,Anthropic,32600,2026-06-23 21:05:02.518665
+1.0,STARTUP,AI Directory,https://example.com/startup/652,Perplexity,32650,2026-06-23 21:05:02.518668
+1.0,STARTUP,AI Directory,https://example.com/startup/653,Mistral AI,32700,2026-06-23 21:05:02.518669
+1.0,STARTUP,AI Directory,https://example.com/startup/654,Cohere,32750,2026-06-23 21:05:02.518672
+1.0,STARTUP,AI Directory,https://example.com/startup/655,Runway,32800,2026-06-23 21:05:02.518674
+1.0,STARTUP,AI Directory,https://example.com/startup/656,Midjourney,32850,2026-06-23 21:05:02.518675
+1.0,STARTUP,AI Directory,https://example.com/startup/657,Hugging Face,32900,2026-06-23 21:05:02.518676
+1.0,STARTUP,AI Directory,https://example.com/startup/658,Stability AI,32950,2026-06-23 21:05:02.518677
+1.0,STARTUP,AI Directory,https://example.com/startup/659,Character AI,33000,2026-06-23 21:05:02.518678
+1.0,STARTUP,AI Directory,https://example.com/startup/660,OpenAI,33050,2026-06-23 21:05:02.518679
+1.0,STARTUP,AI Directory,https://example.com/startup/661,Anthropic,33100,2026-06-23 21:05:02.518680
+1.0,STARTUP,AI Directory,https://example.com/startup/662,Perplexity,33150,2026-06-23 21:05:02.518681
+1.0,STARTUP,AI Directory,https://example.com/startup/663,Mistral AI,33200,2026-06-23 21:05:02.518682
+1.0,STARTUP,AI Directory,https://example.com/startup/664,Cohere,33250,2026-06-23 21:05:02.518683
+1.0,STARTUP,AI Directory,https://example.com/startup/665,Runway,33300,2026-06-23 21:05:02.518684
+1.0,STARTUP,AI Directory,https://example.com/startup/666,Midjourney,33350,2026-06-23 21:05:02.518685
+1.0,STARTUP,AI Directory,https://example.com/startup/667,Hugging Face,33400,2026-06-23 21:05:02.518686
+1.0,STARTUP,AI Directory,https://example.com/startup/668,Stability AI,33450,2026-06-23 21:05:02.518687
+1.0,STARTUP,AI Directory,https://example.com/startup/669,Character AI,33500,2026-06-23 21:05:02.518688
+1.0,STARTUP,AI Directory,https://example.com/startup/670,OpenAI,33550,2026-06-23 21:05:02.518689
+1.0,STARTUP,AI Directory,https://example.com/startup/671,Anthropic,33600,2026-06-23 21:05:02.518690
+1.0,STARTUP,AI Directory,https://example.com/startup/672,Perplexity,33650,2026-06-23 21:05:02.518691
+1.0,STARTUP,AI Directory,https://example.com/startup/673,Mistral AI,33700,2026-06-23 21:05:02.518693
+1.0,STARTUP,AI Directory,https://example.com/startup/674,Cohere,33750,2026-06-23 21:05:02.518696
+1.0,STARTUP,AI Directory,https://example.com/startup/675,Runway,33800,2026-06-23 21:05:02.518697
+1.0,STARTUP,AI Directory,https://example.com/startup/676,Midjourney,33850,2026-06-23 21:05:02.518698
+1.0,STARTUP,AI Directory,https://example.com/startup/677,Hugging Face,33900,2026-06-23 21:05:02.518699
+1.0,STARTUP,AI Directory,https://example.com/startup/678,Stability AI,33950,2026-06-23 21:05:02.518700
+1.0,STARTUP,AI Directory,https://example.com/startup/679,Character AI,34000,2026-06-23 21:05:02.518701
+1.0,STARTUP,AI Directory,https://example.com/startup/680,OpenAI,34050,2026-06-23 21:05:02.518704
+1.0,STARTUP,AI Directory,https://example.com/startup/681,Anthropic,34100,2026-06-23 21:05:02.518705
+1.0,STARTUP,AI Directory,https://example.com/startup/682,Perplexity,34150,2026-06-23 21:05:02.518706
+1.0,STARTUP,AI Directory,https://example.com/startup/683,Mistral AI,34200,2026-06-23 21:05:02.518707
+1.0,STARTUP,AI Directory,https://example.com/startup/684,Cohere,34250,2026-06-23 21:05:02.518708
+1.0,STARTUP,AI Directory,https://example.com/startup/685,Runway,34300,2026-06-23 21:05:02.518709
+1.0,STARTUP,AI Directory,https://example.com/startup/686,Midjourney,34350,2026-06-23 21:05:02.518710
+1.0,STARTUP,AI Directory,https://example.com/startup/687,Hugging Face,34400,2026-06-23 21:05:02.518711
+1.0,STARTUP,AI Directory,https://example.com/startup/688,Stability AI,34450,2026-06-23 21:05:02.518712
+1.0,STARTUP,AI Directory,https://example.com/startup/689,Character AI,34500,2026-06-23 21:05:02.518713
+1.0,STARTUP,AI Directory,https://example.com/startup/690,OpenAI,34550,2026-06-23 21:05:02.518714
+1.0,STARTUP,AI Directory,https://example.com/startup/691,Anthropic,34600,2026-06-23 21:05:02.518715
+1.0,STARTUP,AI Directory,https://example.com/startup/692,Perplexity,34650,2026-06-23 21:05:02.518716
+1.0,STARTUP,AI Directory,https://example.com/startup/693,Mistral AI,34700,2026-06-23 21:05:02.518716
+1.0,STARTUP,AI Directory,https://example.com/startup/694,Cohere,34750,2026-06-23 21:05:02.518719
+1.0,STARTUP,AI Directory,https://example.com/startup/695,Runway,34800,2026-06-23 21:05:02.518720
+1.0,STARTUP,AI Directory,https://example.com/startup/696,Midjourney,34850,2026-06-23 21:05:02.518721
+1.0,STARTUP,AI Directory,https://example.com/startup/697,Hugging Face,34900,2026-06-23 21:05:02.518722
+1.0,STARTUP,AI Directory,https://example.com/startup/698,Stability AI,34950,2026-06-23 21:05:02.518723
+1.0,STARTUP,AI Directory,https://example.com/startup/699,Character AI,35000,2026-06-23 21:05:02.518724
+1.0,STARTUP,AI Directory,https://example.com/startup/700,OpenAI,35050,2026-06-23 21:05:02.518725
+1.0,STARTUP,AI Directory,https://example.com/startup/701,Anthropic,35100,2026-06-23 21:05:02.518726
+1.0,STARTUP,AI Directory,https://example.com/startup/702,Perplexity,35150,2026-06-23 21:05:02.518727
+1.0,STARTUP,AI Directory,https://example.com/startup/703,Mistral AI,35200,2026-06-23 21:05:02.518728
+1.0,STARTUP,AI Directory,https://example.com/startup/704,Cohere,35250,2026-06-23 21:05:02.518731
+1.0,STARTUP,AI Directory,https://example.com/startup/705,Runway,35300,2026-06-23 21:05:02.518732
+1.0,STARTUP,AI Directory,https://example.com/startup/706,Midjourney,35350,2026-06-23 21:05:02.518733
+1.0,STARTUP,AI Directory,https://example.com/startup/707,Hugging Face,35400,2026-06-23 21:05:02.518734
+1.0,STARTUP,AI Directory,https://example.com/startup/708,Stability AI,35450,2026-06-23 21:05:02.518735
+1.0,STARTUP,AI Directory,https://example.com/startup/709,Character AI,35500,2026-06-23 21:05:02.518736
+1.0,STARTUP,AI Directory,https://example.com/startup/710,OpenAI,35550,2026-06-23 21:05:02.518737
+1.0,STARTUP,AI Directory,https://example.com/startup/711,Anthropic,35600,2026-06-23 21:05:02.518738
+1.0,STARTUP,AI Directory,https://example.com/startup/712,Perplexity,35650,2026-06-23 21:05:02.518739
+1.0,STARTUP,AI Directory,https://example.com/startup/713,Mistral AI,35700,2026-06-23 21:05:02.518742
+1.0,STARTUP,AI Directory,https://example.com/startup/714,Cohere,35750,2026-06-23 21:05:02.518743
+1.0,STARTUP,AI Directory,https://example.com/startup/715,Runway,35800,2026-06-23 21:05:02.518744
+1.0,STARTUP,AI Directory,https://example.com/startup/716,Midjourney,35850,2026-06-23 21:05:02.518745
+1.0,STARTUP,AI Directory,https://example.com/startup/717,Hugging Face,35900,2026-06-23 21:05:02.518746
+1.0,STARTUP,AI Directory,https://example.com/startup/718,Stability AI,35950,2026-06-23 21:05:02.518748
+1.0,STARTUP,AI Directory,https://example.com/startup/719,Character AI,36000,2026-06-23 21:05:02.518749
+1.0,STARTUP,AI Directory,https://example.com/startup/720,OpenAI,36050,2026-06-23 21:05:02.518750
+1.0,STARTUP,AI Directory,https://example.com/startup/721,Anthropic,36100,2026-06-23 21:05:02.518751
+1.0,STARTUP,AI Directory,https://example.com/startup/722,Perplexity,36150,2026-06-23 21:05:02.518754
+1.0,STARTUP,AI Directory,https://example.com/startup/723,Mistral AI,36200,2026-06-23 21:05:02.518755
+1.0,STARTUP,AI Directory,https://example.com/startup/724,Cohere,36250,2026-06-23 21:05:02.518756
+1.0,STARTUP,AI Directory,https://example.com/startup/725,Runway,36300,2026-06-23 21:05:02.518757
+1.0,STARTUP,AI Directory,https://example.com/startup/726,Midjourney,36350,2026-06-23 21:05:02.518758
+1.0,STARTUP,AI Directory,https://example.com/startup/727,Hugging Face,36400,2026-06-23 21:05:02.518759
+1.0,STARTUP,AI Directory,https://example.com/startup/728,Stability AI,36450,2026-06-23 21:05:02.518760
+1.0,STARTUP,AI Directory,https://example.com/startup/729,Character AI,36500,2026-06-23 21:05:02.518761
+1.0,STARTUP,AI Directory,https://example.com/startup/730,OpenAI,36550,2026-06-23 21:05:02.518762
+1.0,STARTUP,AI Directory,https://example.com/startup/731,Anthropic,36600,2026-06-23 21:05:02.518763
+1.0,STARTUP,AI Directory,https://example.com/startup/732,Perplexity,36650,2026-06-23 21:05:02.518764
+1.0,STARTUP,AI Directory,https://example.com/startup/733,Mistral AI,36700,2026-06-23 21:05:02.518767
+1.0,STARTUP,AI Directory,https://example.com/startup/734,Cohere,36750,2026-06-23 21:05:02.518768
+1.0,STARTUP,AI Directory,https://example.com/startup/735,Runway,36800,2026-06-23 21:05:02.518769
+1.0,STARTUP,AI Directory,https://example.com/startup/736,Midjourney,36850,2026-06-23 21:05:02.518770
+1.0,STARTUP,AI Directory,https://example.com/startup/737,Hugging Face,36900,2026-06-23 21:05:02.518771
+1.0,STARTUP,AI Directory,https://example.com/startup/738,Stability AI,36950,2026-06-23 21:05:02.518772
+1.0,STARTUP,AI Directory,https://example.com/startup/739,Character AI,37000,2026-06-23 21:05:02.518773
+1.0,STARTUP,AI Directory,https://example.com/startup/740,OpenAI,37050,2026-06-23 21:05:02.518774
+1.0,STARTUP,AI Directory,https://example.com/startup/741,Anthropic,37100,2026-06-23 21:05:02.518775
+1.0,STARTUP,AI Directory,https://example.com/startup/742,Perplexity,37150,2026-06-23 21:05:02.518776
+1.0,STARTUP,AI Directory,https://example.com/startup/743,Mistral AI,37200,2026-06-23 21:05:02.518777
+1.0,STARTUP,AI Directory,https://example.com/startup/744,Cohere,37250,2026-06-23 21:05:02.518777
+1.0,STARTUP,AI Directory,https://example.com/startup/745,Runway,37300,2026-06-23 21:05:02.518778
+1.0,STARTUP,AI Directory,https://example.com/startup/746,Midjourney,37350,2026-06-23 21:05:02.518779
+1.0,STARTUP,AI Directory,https://example.com/startup/747,Hugging Face,37400,2026-06-23 21:05:02.518780
+1.0,STARTUP,AI Directory,https://example.com/startup/748,Stability AI,37450,2026-06-23 21:05:02.518781
+1.0,STARTUP,AI Directory,https://example.com/startup/749,Character AI,37500,2026-06-23 21:05:02.518782
+1.0,STARTUP,AI Directory,https://example.com/startup/750,OpenAI,37550,2026-06-23 21:05:02.518783
+1.0,STARTUP,AI Directory,https://example.com/startup/751,Anthropic,37600,2026-06-23 21:05:02.518784
+1.0,STARTUP,AI Directory,https://example.com/startup/752,Perplexity,37650,2026-06-23 21:05:02.518787
+1.0,STARTUP,AI Directory,https://example.com/startup/753,Mistral AI,37700,2026-06-23 21:05:02.518788
+1.0,STARTUP,AI Directory,https://example.com/startup/754,Cohere,37750,2026-06-23 21:05:02.518791
+1.0,STARTUP,AI Directory,https://example.com/startup/755,Runway,37800,2026-06-23 21:05:02.518792
+1.0,STARTUP,AI Directory,https://example.com/startup/756,Midjourney,37850,2026-06-23 21:05:02.518793
+1.0,STARTUP,AI Directory,https://example.com/startup/757,Hugging Face,37900,2026-06-23 21:05:02.518794
+1.0,STARTUP,AI Directory,https://example.com/startup/758,Stability AI,37950,2026-06-23 21:05:02.518795
+1.0,STARTUP,AI Directory,https://example.com/startup/759,Character AI,38000,2026-06-23 21:05:02.518796
+1.0,STARTUP,AI Directory,https://example.com/startup/760,OpenAI,38050,2026-06-23 21:05:02.518797
+1.0,STARTUP,AI Directory,https://example.com/startup/761,Anthropic,38100,2026-06-23 21:05:02.518799
+1.0,STARTUP,AI Directory,https://example.com/startup/762,Perplexity,38150,2026-06-23 21:05:02.518800
+1.0,STARTUP,AI Directory,https://example.com/startup/763,Mistral AI,38200,2026-06-23 21:05:02.518801
+1.0,STARTUP,AI Directory,https://example.com/startup/764,Cohere,38250,2026-06-23 21:05:02.518802
+1.0,STARTUP,AI Directory,https://example.com/startup/765,Runway,38300,2026-06-23 21:05:02.518804
+1.0,STARTUP,AI Directory,https://example.com/startup/766,Midjourney,38350,2026-06-23 21:05:02.518805
+1.0,STARTUP,AI Directory,https://example.com/startup/767,Hugging Face,38400,2026-06-23 21:05:02.518806
+1.0,STARTUP,AI Directory,https://example.com/startup/768,Stability AI,38450,2026-06-23 21:05:02.518807
+1.0,STARTUP,AI Directory,https://example.com/startup/769,Character AI,38500,2026-06-23 21:05:02.518808
+1.0,STARTUP,AI Directory,https://example.com/startup/770,OpenAI,38550,2026-06-23 21:05:02.518809
+1.0,STARTUP,AI Directory,https://example.com/startup/771,Anthropic,38600,2026-06-23 21:05:02.518810
+1.0,STARTUP,AI Directory,https://example.com/startup/772,Perplexity,38650,2026-06-23 21:05:02.518813
+1.0,STARTUP,AI Directory,https://example.com/startup/773,Mistral AI,38700,2026-06-23 21:05:02.518814
+1.0,STARTUP,AI Directory,https://example.com/startup/774,Cohere,38750,2026-06-23 21:05:02.518815
+1.0,STARTUP,AI Directory,https://example.com/startup/775,Runway,38800,2026-06-23 21:05:02.518816
+1.0,STARTUP,AI Directory,https://example.com/startup/776,Midjourney,38850,2026-06-23 21:05:02.518817
+1.0,STARTUP,AI Directory,https://example.com/startup/777,Hugging Face,38900,2026-06-23 21:05:02.518818
+1.0,STARTUP,AI Directory,https://example.com/startup/778,Stability AI,38950,2026-06-23 21:05:02.518819
+1.0,STARTUP,AI Directory,https://example.com/startup/779,Character AI,39000,2026-06-23 21:05:02.518820
+1.0,STARTUP,AI Directory,https://example.com/startup/780,OpenAI,39050,2026-06-23 21:05:02.518821
+1.0,STARTUP,AI Directory,https://example.com/startup/781,Anthropic,39100,2026-06-23 21:05:02.518824
+1.0,STARTUP,AI Directory,https://example.com/startup/782,Perplexity,39150,2026-06-23 21:05:02.518825
+1.0,STARTUP,AI Directory,https://example.com/startup/783,Mistral AI,39200,2026-06-23 21:05:02.518826
+1.0,STARTUP,AI Directory,https://example.com/startup/784,Cohere,39250,2026-06-23 21:05:02.518827
+1.0,STARTUP,AI Directory,https://example.com/startup/785,Runway,39300,2026-06-23 21:05:02.518828
+1.0,STARTUP,AI Directory,https://example.com/startup/786,Midjourney,39350,2026-06-23 21:05:02.518829
+1.0,STARTUP,AI Directory,https://example.com/startup/787,Hugging Face,39400,2026-06-23 21:05:02.518830
+1.0,STARTUP,AI Directory,https://example.com/startup/788,Stability AI,39450,2026-06-23 21:05:02.518831
+1.0,STARTUP,AI Directory,https://example.com/startup/789,Character AI,39500,2026-06-23 21:05:02.518832
+1.0,STARTUP,AI Directory,https://example.com/startup/790,OpenAI,39550,2026-06-23 21:05:02.518833
+1.0,STARTUP,AI Directory,https://example.com/startup/791,Anthropic,39600,2026-06-23 21:05:02.518835
+1.0,STARTUP,AI Directory,https://example.com/startup/792,Perplexity,39650,2026-06-23 21:05:02.518836
+1.0,STARTUP,AI Directory,https://example.com/startup/793,Mistral AI,39700,2026-06-23 21:05:02.518837
+1.0,STARTUP,AI Directory,https://example.com/startup/794,Cohere,39750,2026-06-23 21:05:02.518838
+1.0,STARTUP,AI Directory,https://example.com/startup/795,Runway,39800,2026-06-23 21:05:02.518839
+1.0,STARTUP,AI Directory,https://example.com/startup/796,Midjourney,39850,2026-06-23 21:05:02.518840
+1.0,STARTUP,AI Directory,https://example.com/startup/797,Hugging Face,39900,2026-06-23 21:05:02.518841
+1.0,STARTUP,AI Directory,https://example.com/startup/798,Stability AI,39950,2026-06-23 21:05:02.518842
+1.0,STARTUP,AI Directory,https://example.com/startup/799,Character AI,40000,2026-06-23 21:05:02.518843
+1.0,STARTUP,AI Directory,https://example.com/startup/800,OpenAI,40050,2026-06-23 21:05:02.518844
+1.0,STARTUP,AI Directory,https://example.com/startup/801,Anthropic,40100,2026-06-23 21:05:02.518845
+1.0,STARTUP,AI Directory,https://example.com/startup/802,Perplexity,40150,2026-06-23 21:05:02.518846
+1.0,STARTUP,AI Directory,https://example.com/startup/803,Mistral AI,40200,2026-06-23 21:05:02.518847
+1.0,STARTUP,AI Directory,https://example.com/startup/804,Cohere,40250,2026-06-23 21:05:02.518848
+1.0,STARTUP,AI Directory,https://example.com/startup/805,Runway,40300,2026-06-23 21:05:02.518850
+1.0,STARTUP,AI Directory,https://example.com/startup/806,Midjourney,40350,2026-06-23 21:05:02.518852
+1.0,STARTUP,AI Directory,https://example.com/startup/807,Hugging Face,40400,2026-06-23 21:05:02.518853
+1.0,STARTUP,AI Directory,https://example.com/startup/808,Stability AI,40450,2026-06-23 21:05:02.518854
+1.0,STARTUP,AI Directory,https://example.com/startup/809,Character AI,40500,2026-06-23 21:05:02.518855
+1.0,STARTUP,AI Directory,https://example.com/startup/810,OpenAI,40550,2026-06-23 21:05:02.518856
+1.0,STARTUP,AI Directory,https://example.com/startup/811,Anthropic,40600,2026-06-23 21:05:02.518859
+1.0,STARTUP,AI Directory,https://example.com/startup/812,Perplexity,40650,2026-06-23 21:05:02.518860
+1.0,STARTUP,AI Directory,https://example.com/startup/813,Mistral AI,40700,2026-06-23 21:05:02.518861
+1.0,STARTUP,AI Directory,https://example.com/startup/814,Cohere,40750,2026-06-23 21:05:02.518862
+1.0,STARTUP,AI Directory,https://example.com/startup/815,Runway,40800,2026-06-23 21:05:02.518863
+1.0,STARTUP,AI Directory,https://example.com/startup/816,Midjourney,40850,2026-06-23 21:05:02.518864
+1.0,STARTUP,AI Directory,https://example.com/startup/817,Hugging Face,40900,2026-06-23 21:05:02.518865
+1.0,STARTUP,AI Directory,https://example.com/startup/818,Stability AI,40950,2026-06-23 21:05:02.518866
+1.0,STARTUP,AI Directory,https://example.com/startup/819,Character AI,41000,2026-06-23 21:05:02.518867
+1.0,STARTUP,AI Directory,https://example.com/startup/820,OpenAI,41050,2026-06-23 21:05:02.518868
+1.0,STARTUP,AI Directory,https://example.com/startup/821,Anthropic,41100,2026-06-23 21:05:02.518869
+1.0,STARTUP,AI Directory,https://example.com/startup/822,Perplexity,41150,2026-06-23 21:05:02.518869
+1.0,STARTUP,AI Directory,https://example.com/startup/823,Mistral AI,41200,2026-06-23 21:05:02.518870
+1.0,STARTUP,AI Directory,https://example.com/startup/824,Cohere,41250,2026-06-23 21:05:02.518871
+1.0,STARTUP,AI Directory,https://example.com/startup/825,Runway,41300,2026-06-23 21:05:02.518872
+1.0,STARTUP,AI Directory,https://example.com/startup/826,Midjourney,41350,2026-06-23 21:05:02.518873
+1.0,STARTUP,AI Directory,https://example.com/startup/827,Hugging Face,41400,2026-06-23 21:05:02.518874
+1.0,STARTUP,AI Directory,https://example.com/startup/828,Stability AI,41450,2026-06-23 21:05:02.518875
+1.0,STARTUP,AI Directory,https://example.com/startup/829,Character AI,41500,2026-06-23 21:05:02.518876
+1.0,STARTUP,AI Directory,https://example.com/startup/830,OpenAI,41550,2026-06-23 21:05:02.518879
+1.0,STARTUP,AI Directory,https://example.com/startup/831,Anthropic,41600,2026-06-23 21:05:02.518880
+1.0,STARTUP,AI Directory,https://example.com/startup/832,Perplexity,41650,2026-06-23 21:05:02.518881
+1.0,STARTUP,AI Directory,https://example.com/startup/833,Mistral AI,41700,2026-06-23 21:05:02.518882
+1.0,STARTUP,AI Directory,https://example.com/startup/834,Cohere,41750,2026-06-23 21:05:02.518883
+1.0,STARTUP,AI Directory,https://example.com/startup/835,Runway,41800,2026-06-23 21:05:02.518884
+1.0,STARTUP,AI Directory,https://example.com/startup/836,Midjourney,41850,2026-06-23 21:05:02.518885
+1.0,STARTUP,AI Directory,https://example.com/startup/837,Hugging Face,41900,2026-06-23 21:05:02.518886
+1.0,STARTUP,AI Directory,https://example.com/startup/838,Stability AI,41950,2026-06-23 21:05:02.518887
+1.0,STARTUP,AI Directory,https://example.com/startup/839,Character AI,42000,2026-06-23 21:05:02.518888
+1.0,STARTUP,AI Directory,https://example.com/startup/840,OpenAI,42050,2026-06-23 21:05:02.518889
+1.0,STARTUP,AI Directory,https://example.com/startup/841,Anthropic,42100,2026-06-23 21:05:02.518890
+1.0,STARTUP,AI Directory,https://example.com/startup/842,Perplexity,42150,2026-06-23 21:05:02.518891
+1.0,STARTUP,AI Directory,https://example.com/startup/843,Mistral AI,42200,2026-06-23 21:05:02.518892
+1.0,STARTUP,AI Directory,https://example.com/startup/844,Cohere,42250,2026-06-23 21:05:02.518893
+1.0,STARTUP,AI Directory,https://example.com/startup/845,Runway,42300,2026-06-23 21:05:02.518895
+1.0,STARTUP,AI Directory,https://example.com/startup/846,Midjourney,42350,2026-06-23 21:05:02.518896
+1.0,STARTUP,AI Directory,https://example.com/startup/847,Hugging Face,42400,2026-06-23 21:05:02.518897
+1.0,STARTUP,AI Directory,https://example.com/startup/848,Stability AI,42450,2026-06-23 21:05:02.518898
+1.0,STARTUP,AI Directory,https://example.com/startup/849,Character AI,42500,2026-06-23 21:05:02.518899
+1.0,STARTUP,AI Directory,https://example.com/startup/850,OpenAI,42550,2026-06-23 21:05:02.518904
+1.0,STARTUP,AI Directory,https://example.com/startup/851,Anthropic,42600,2026-06-23 21:05:02.518907
+1.0,STARTUP,AI Directory,https://example.com/startup/852,Perplexity,42650,2026-06-23 21:05:02.518908
+1.0,STARTUP,AI Directory,https://example.com/startup/853,Mistral AI,42700,2026-06-23 21:05:02.518909
+1.0,STARTUP,AI Directory,https://example.com/startup/854,Cohere,42750,2026-06-23 21:05:02.518910
+1.0,STARTUP,AI Directory,https://example.com/startup/855,Runway,42800,2026-06-23 21:05:02.518911
+1.0,STARTUP,AI Directory,https://example.com/startup/856,Midjourney,42850,2026-06-23 21:05:02.518914
+1.0,STARTUP,AI Directory,https://example.com/startup/857,Hugging Face,42900,2026-06-23 21:05:02.518915
+1.0,STARTUP,AI Directory,https://example.com/startup/858,Stability AI,42950,2026-06-23 21:05:02.518916
+1.0,STARTUP,AI Directory,https://example.com/startup/859,Character AI,43000,2026-06-23 21:05:02.518917
+1.0,STARTUP,AI Directory,https://example.com/startup/860,OpenAI,43050,2026-06-23 21:05:02.518918
+1.0,STARTUP,AI Directory,https://example.com/startup/861,Anthropic,43100,2026-06-23 21:05:02.518921
+1.0,STARTUP,AI Directory,https://example.com/startup/862,Perplexity,43150,2026-06-23 21:05:02.518922
+1.0,STARTUP,AI Directory,https://example.com/startup/863,Mistral AI,43200,2026-06-23 21:05:02.518923
+1.0,STARTUP,AI Directory,https://example.com/startup/864,Cohere,43250,2026-06-23 21:05:02.518924
+1.0,STARTUP,AI Directory,https://example.com/startup/865,Runway,43300,2026-06-23 21:05:02.518925
+1.0,STARTUP,AI Directory,https://example.com/startup/866,Midjourney,43350,2026-06-23 21:05:02.518926
+1.0,STARTUP,AI Directory,https://example.com/startup/867,Hugging Face,43400,2026-06-23 21:05:02.518926
+1.0,STARTUP,AI Directory,https://example.com/startup/868,Stability AI,43450,2026-06-23 21:05:02.518927
+1.0,STARTUP,AI Directory,https://example.com/startup/869,Character AI,43500,2026-06-23 21:05:02.518930
+1.0,STARTUP,AI Directory,https://example.com/startup/870,OpenAI,43550,2026-06-23 21:05:02.518931
+1.0,STARTUP,AI Directory,https://example.com/startup/871,Anthropic,43600,2026-06-23 21:05:02.518932
+1.0,STARTUP,AI Directory,https://example.com/startup/872,Perplexity,43650,2026-06-23 21:05:02.518933
+1.0,STARTUP,AI Directory,https://example.com/startup/873,Mistral AI,43700,2026-06-23 21:05:02.518934
+1.0,STARTUP,AI Directory,https://example.com/startup/874,Cohere,43750,2026-06-23 21:05:02.518935
+1.0,STARTUP,AI Directory,https://example.com/startup/875,Runway,43800,2026-06-23 21:05:02.518936
+1.0,STARTUP,AI Directory,https://example.com/startup/876,Midjourney,43850,2026-06-23 21:05:02.518937
+1.0,STARTUP,AI Directory,https://example.com/startup/877,Hugging Face,43900,2026-06-23 21:05:02.518938
+1.0,STARTUP,AI Directory,https://example.com/startup/878,Stability AI,43950,2026-06-23 21:05:02.518939
+1.0,STARTUP,AI Directory,https://example.com/startup/879,Character AI,44000,2026-06-23 21:05:02.518940
+1.0,STARTUP,AI Directory,https://example.com/startup/880,OpenAI,44050,2026-06-23 21:05:02.518941
+1.0,STARTUP,AI Directory,https://example.com/startup/881,Anthropic,44100,2026-06-23 21:05:02.518942
+1.0,STARTUP,AI Directory,https://example.com/startup/882,Perplexity,44150,2026-06-23 21:05:02.518943
+1.0,STARTUP,AI Directory,https://example.com/startup/883,Mistral AI,44200,2026-06-23 21:05:02.518944
+1.0,STARTUP,AI Directory,https://example.com/startup/884,Cohere,44250,2026-06-23 21:05:02.518945
+1.0,STARTUP,AI Directory,https://example.com/startup/885,Runway,44300,2026-06-23 21:05:02.518946
+1.0,STARTUP,AI Directory,https://example.com/startup/886,Midjourney,44350,2026-06-23 21:05:02.518947
+1.0,STARTUP,AI Directory,https://example.com/startup/887,Hugging Face,44400,2026-06-23 21:05:02.518948
+1.0,STARTUP,AI Directory,https://example.com/startup/888,Stability AI,44450,2026-06-23 21:05:02.518949
+1.0,STARTUP,AI Directory,https://example.com/startup/889,Character AI,44500,2026-06-23 21:05:02.518951
+1.0,STARTUP,AI Directory,https://example.com/startup/890,OpenAI,44550,2026-06-23 21:05:02.518952
+1.0,STARTUP,AI Directory,https://example.com/startup/891,Anthropic,44600,2026-06-23 21:05:02.518953
+1.0,STARTUP,AI Directory,https://example.com/startup/892,Perplexity,44650,2026-06-23 21:05:02.518954
+1.0,STARTUP,AI Directory,https://example.com/startup/893,Mistral AI,44700,2026-06-23 21:05:02.518955
+1.0,STARTUP,AI Directory,https://example.com/startup/894,Cohere,44750,2026-06-23 21:05:02.518956
+1.0,STARTUP,AI Directory,https://example.com/startup/895,Runway,44800,2026-06-23 21:05:02.518957
+1.0,STARTUP,AI Directory,https://example.com/startup/896,Midjourney,44850,2026-06-23 21:05:02.518958
+1.0,STARTUP,AI Directory,https://example.com/startup/897,Hugging Face,44900,2026-06-23 21:05:02.518959
+1.0,STARTUP,AI Directory,https://example.com/startup/898,Stability AI,44950,2026-06-23 21:05:02.518960
+1.0,STARTUP,AI Directory,https://example.com/startup/899,Character AI,45000,2026-06-23 21:05:02.518961
+1.0,STARTUP,AI Directory,https://example.com/startup/900,OpenAI,45050,2026-06-23 21:05:02.518962
+1.0,STARTUP,AI Directory,https://example.com/startup/901,Anthropic,45100,2026-06-23 21:05:02.518963
+1.0,STARTUP,AI Directory,https://example.com/startup/902,Perplexity,45150,2026-06-23 21:05:02.518964
+1.0,STARTUP,AI Directory,https://example.com/startup/903,Mistral AI,45200,2026-06-23 21:05:02.518965
+1.0,STARTUP,AI Directory,https://example.com/startup/904,Cohere,45250,2026-06-23 21:05:02.518966
+1.0,STARTUP,AI Directory,https://example.com/startup/905,Runway,45300,2026-06-23 21:05:02.518967
+1.0,STARTUP,AI Directory,https://example.com/startup/906,Midjourney,45350,2026-06-23 21:05:02.518968
+1.0,STARTUP,AI Directory,https://example.com/startup/907,Hugging Face,45400,2026-06-23 21:05:02.518969
+1.0,STARTUP,AI Directory,https://example.com/startup/908,Stability AI,45450,2026-06-23 21:05:02.518973
+1.0,STARTUP,AI Directory,https://example.com/startup/909,Character AI,45500,2026-06-23 21:05:02.518976
+1.0,STARTUP,AI Directory,https://example.com/startup/910,OpenAI,45550,2026-06-23 21:05:02.518977
+1.0,STARTUP,AI Directory,https://example.com/startup/911,Anthropic,45600,2026-06-23 21:05:02.518978
+1.0,STARTUP,AI Directory,https://example.com/startup/912,Perplexity,45650,2026-06-23 21:05:02.518979
+1.0,STARTUP,AI Directory,https://example.com/startup/913,Mistral AI,45700,2026-06-23 21:05:02.518980
+1.0,STARTUP,AI Directory,https://example.com/startup/914,Cohere,45750,2026-06-23 21:05:02.518981
+1.0,STARTUP,AI Directory,https://example.com/startup/915,Runway,45800,2026-06-23 21:05:02.518982
+1.0,STARTUP,AI Directory,https://example.com/startup/916,Midjourney,45850,2026-06-23 21:05:02.518983
+1.0,STARTUP,AI Directory,https://example.com/startup/917,Hugging Face,45900,2026-06-23 21:05:02.518984
+1.0,STARTUP,AI Directory,https://example.com/startup/918,Stability AI,45950,2026-06-23 21:05:02.518985
+1.0,STARTUP,AI Directory,https://example.com/startup/919,Character AI,46000,2026-06-23 21:05:02.518986
+1.0,STARTUP,AI Directory,https://example.com/startup/920,OpenAI,46050,2026-06-23 21:05:02.518987
+1.0,STARTUP,AI Directory,https://example.com/startup/921,Anthropic,46100,2026-06-23 21:05:02.518988
+1.0,STARTUP,AI Directory,https://example.com/startup/922,Perplexity,46150,2026-06-23 21:05:02.518989
+1.0,STARTUP,AI Directory,https://example.com/startup/923,Mistral AI,46200,2026-06-23 21:05:02.518990
+1.0,STARTUP,AI Directory,https://example.com/startup/924,Cohere,46250,2026-06-23 21:05:02.518991
+1.0,STARTUP,AI Directory,https://example.com/startup/925,Runway,46300,2026-06-23 21:05:02.518992
+1.0,STARTUP,AI Directory,https://example.com/startup/926,Midjourney,46350,2026-06-23 21:05:02.518993
+1.0,STARTUP,AI Directory,https://example.com/startup/927,Hugging Face,46400,2026-06-23 21:05:02.518994
+1.0,STARTUP,AI Directory,https://example.com/startup/928,Stability AI,46450,2026-06-23 21:05:02.518997
+1.0,STARTUP,AI Directory,https://example.com/startup/929,Character AI,46500,2026-06-23 21:05:02.518998
+1.0,STARTUP,AI Directory,https://example.com/startup/930,OpenAI,46550,2026-06-23 21:05:02.518999
+1.0,STARTUP,AI Directory,https://example.com/startup/931,Anthropic,46600,2026-06-23 21:05:02.519000
+1.0,STARTUP,AI Directory,https://example.com/startup/932,Perplexity,46650,2026-06-23 21:05:02.519001
+1.0,STARTUP,AI Directory,https://example.com/startup/933,Mistral AI,46700,2026-06-23 21:05:02.519002
+1.0,STARTUP,AI Directory,https://example.com/startup/934,Cohere,46750,2026-06-23 21:05:02.519003
+1.0,STARTUP,AI Directory,https://example.com/startup/935,Runway,46800,2026-06-23 21:05:02.519005
+1.0,STARTUP,AI Directory,https://example.com/startup/936,Midjourney,46850,2026-06-23 21:05:02.519007
+1.0,STARTUP,AI Directory,https://example.com/startup/937,Hugging Face,46900,2026-06-23 21:05:02.519008
+1.0,STARTUP,AI Directory,https://example.com/startup/938,Stability AI,46950,2026-06-23 21:05:02.519009
+1.0,STARTUP,AI Directory,https://example.com/startup/939,Character AI,47000,2026-06-23 21:05:02.519010
+1.0,STARTUP,AI Directory,https://example.com/startup/940,OpenAI,47050,2026-06-23 21:05:02.519011
+1.0,STARTUP,AI Directory,https://example.com/startup/941,Anthropic,47100,2026-06-23 21:05:02.519012
+1.0,STARTUP,AI Directory,https://example.com/startup/942,Perplexity,47150,2026-06-23 21:05:02.519013
+1.0,STARTUP,AI Directory,https://example.com/startup/943,Mistral AI,47200,2026-06-23 21:05:02.519014
+1.0,STARTUP,AI Directory,https://example.com/startup/944,Cohere,47250,2026-06-23 21:05:02.519015
+1.0,STARTUP,AI Directory,https://example.com/startup/945,Runway,47300,2026-06-23 21:05:02.519016
+1.0,STARTUP,AI Directory,https://example.com/startup/946,Midjourney,47350,2026-06-23 21:05:02.519017
+1.0,STARTUP,AI Directory,https://example.com/startup/947,Hugging Face,47400,2026-06-23 21:05:02.519019
+1.0,STARTUP,AI Directory,https://example.com/startup/948,Stability AI,47450,2026-06-23 21:05:02.519020
+1.0,STARTUP,AI Directory,https://example.com/startup/949,Character AI,47500,2026-06-23 21:05:02.519022
+1.0,STARTUP,AI Directory,https://example.com/startup/950,OpenAI,47550,2026-06-23 21:05:02.519023
+1.0,STARTUP,AI Directory,https://example.com/startup/951,Anthropic,47600,2026-06-23 21:05:02.519024
+1.0,STARTUP,AI Directory,https://example.com/startup/952,Perplexity,47650,2026-06-23 21:05:02.519025
+1.0,STARTUP,AI Directory,https://example.com/startup/953,Mistral AI,47700,2026-06-23 21:05:02.519026
+1.0,STARTUP,AI Directory,https://example.com/startup/954,Cohere,47750,2026-06-23 21:05:02.519027
+1.0,STARTUP,AI Directory,https://example.com/startup/955,Runway,47800,2026-06-23 21:05:02.519028
+1.0,STARTUP,AI Directory,https://example.com/startup/956,Midjourney,47850,2026-06-23 21:05:02.519029
+1.0,STARTUP,AI Directory,https://example.com/startup/957,Hugging Face,47900,2026-06-23 21:05:02.519030
+1.0,STARTUP,AI Directory,https://example.com/startup/958,Stability AI,47950,2026-06-23 21:05:02.519033
+1.0,STARTUP,AI Directory,https://example.com/startup/959,Character AI,48000,2026-06-23 21:05:02.519034
+1.0,STARTUP,AI Directory,https://example.com/startup/960,OpenAI,48050,2026-06-23 21:05:02.519035
+1.0,STARTUP,AI Directory,https://example.com/startup/961,Anthropic,48100,2026-06-23 21:05:02.519036
+1.0,STARTUP,AI Directory,https://example.com/startup/962,Perplexity,48150,2026-06-23 21:05:02.519037
+1.0,STARTUP,AI Directory,https://example.com/startup/963,Mistral AI,48200,2026-06-23 21:05:02.519038
+1.0,STARTUP,AI Directory,https://example.com/startup/964,Cohere,48250,2026-06-23 21:05:02.519039
+1.0,STARTUP,AI Directory,https://example.com/startup/965,Runway,48300,2026-06-23 21:05:02.519040
+1.0,STARTUP,AI Directory,https://example.com/startup/966,Midjourney,48350,2026-06-23 21:05:02.519041
+1.0,STARTUP,AI Directory,https://example.com/startup/967,Hugging Face,48400,2026-06-23 21:05:02.519043
+1.0,STARTUP,AI Directory,https://example.com/startup/968,Stability AI,48450,2026-06-23 21:05:02.519044
+1.0,STARTUP,AI Directory,https://example.com/startup/969,Character AI,48500,2026-06-23 21:05:02.519045
+1.0,STARTUP,AI Directory,https://example.com/startup/970,OpenAI,48550,2026-06-23 21:05:02.519046
+1.0,STARTUP,AI Directory,https://example.com/startup/971,Anthropic,48600,2026-06-23 21:05:02.519047
+1.0,STARTUP,AI Directory,https://example.com/startup/972,Perplexity,48650,2026-06-23 21:05:02.519048
+1.0,STARTUP,AI Directory,https://example.com/startup/973,Mistral AI,48700,2026-06-23 21:05:02.519052
+1.0,STARTUP,AI Directory,https://example.com/startup/974,Cohere,48750,2026-06-23 21:05:02.519053
+1.0,STARTUP,AI Directory,https://example.com/startup/975,Runway,48800,2026-06-23 21:05:02.519054
+1.0,STARTUP,AI Directory,https://example.com/startup/976,Midjourney,48850,2026-06-23 21:05:02.519055
+1.0,STARTUP,AI Directory,https://example.com/startup/977,Hugging Face,48900,2026-06-23 21:05:02.519056
+1.0,STARTUP,AI Directory,https://example.com/startup/978,Stability AI,48950,2026-06-23 21:05:02.519059
+1.0,STARTUP,AI Directory,https://example.com/startup/979,Character AI,49000,2026-06-23 21:05:02.519060
+1.0,STARTUP,AI Directory,https://example.com/startup/980,OpenAI,49050,2026-06-23 21:05:02.519061
+1.0,STARTUP,AI Directory,https://example.com/startup/981,Anthropic,49100,2026-06-23 21:05:02.519062
+1.0,STARTUP,AI Directory,https://example.com/startup/982,Perplexity,49150,2026-06-23 21:05:02.519063
+1.0,STARTUP,AI Directory,https://example.com/startup/983,Mistral AI,49200,2026-06-23 21:05:02.519064
+1.0,STARTUP,AI Directory,https://example.com/startup/984,Cohere,49250,2026-06-23 21:05:02.519065
+1.0,STARTUP,AI Directory,https://example.com/startup/985,Runway,49300,2026-06-23 21:05:02.519066
+1.0,STARTUP,AI Directory,https://example.com/startup/986,Midjourney,49350,2026-06-23 21:05:02.519069
+1.0,STARTUP,AI Directory,https://example.com/startup/987,Hugging Face,49400,2026-06-23 21:05:02.519070
+1.0,STARTUP,AI Directory,https://example.com/startup/988,Stability AI,49450,2026-06-23 21:05:02.519071
+1.0,STARTUP,AI Directory,https://example.com/startup/989,Character AI,49500,2026-06-23 21:05:02.519072
+1.0,STARTUP,AI Directory,https://example.com/startup/990,OpenAI,49550,2026-06-23 21:05:02.519073
+1.0,STARTUP,AI Directory,https://example.com/startup/991,Anthropic,49600,2026-06-23 21:05:02.519074
+1.0,STARTUP,AI Directory,https://example.com/startup/992,Perplexity,49650,2026-06-23 21:05:02.519075
+1.0,STARTUP,AI Directory,https://example.com/startup/993,Mistral AI,49700,2026-06-23 21:05:02.520341
+1.0,STARTUP,AI Directory,https://example.com/startup/994,Cohere,49750,2026-06-23 21:05:02.520354
+1.0,STARTUP,AI Directory,https://example.com/startup/995,Runway,49800,2026-06-23 21:05:02.520358
+1.0,STARTUP,AI Directory,https://example.com/startup/996,Midjourney,49850,2026-06-23 21:05:02.520361
+1.0,STARTUP,AI Directory,https://example.com/startup/997,Hugging Face,49900,2026-06-23 21:05:02.520363
+1.0,STARTUP,AI Directory,https://example.com/startup/998,Stability AI,49950,2026-06-23 21:05:02.520366
+1.0,STARTUP,AI Directory,https://example.com/startup/999,Character AI,50000,2026-06-23 21:05:02.520368

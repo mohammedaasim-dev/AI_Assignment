@@ -7,7 +7,7 @@ client = arxiv.Client()
 
 search = arxiv.Search(
     query="artificial intelligence",
-    max_results=100,
+    max_results=1000,
     sort_by=arxiv.SortCriterion.SubmittedDate
 )
 
