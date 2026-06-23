@@ -6,14 +6,24 @@ startups = []
 companies = [
     "OpenAI",
     "Anthropic",
-    "Perplexity",
     "Mistral AI",
-    "Cohere",
+    "Perplexity",
     "Runway",
+    "Cohere",
+    "Character AI",
     "Midjourney",
-    "Hugging Face",
     "Stability AI",
-    "Character AI"
+    "Hugging Face",
+    "Databricks",
+    "Scale AI",
+    "Adept AI",
+    "Pika Labs",
+    "ElevenLabs",
+    "Groq",
+    "Replit",
+    "Harvey AI",
+    "Synthesia",
+    "Suno"
 ]
 
 for i in range(1000):
