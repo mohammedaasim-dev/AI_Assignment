@@ -1,0 +1,101 @@
+schemaVersion,recordType,source_name,source_url,startup_name,product_name,pricing_model,collected_at
+1.0,PRODUCT,AI Product Directory,https://example.com/product/0,OpenAI,ChatGPT,FREE,2026-06-23 20:56:23.500211
+1.0,PRODUCT,AI Product Directory,https://example.com/product/1,Anthropic,Claude,FREEMIUM,2026-06-23 20:56:23.500217
+1.0,PRODUCT,AI Product Directory,https://example.com/product/2,Google,Gemini,PAID,2026-06-23 20:56:23.500219
+1.0,PRODUCT,AI Product Directory,https://example.com/product/3,Perplexity,Perplexity AI,ENTERPRISE,2026-06-23 20:56:23.500220
+1.0,PRODUCT,AI Product Directory,https://example.com/product/4,Midjourney,Midjourney,FREE,2026-06-23 20:56:23.500221
+1.0,PRODUCT,AI Product Directory,https://example.com/product/5,Stability AI,Stable Diffusion,FREEMIUM,2026-06-23 20:56:23.500223
+1.0,PRODUCT,AI Product Directory,https://example.com/product/6,Microsoft,Copilot,PAID,2026-06-23 20:56:23.500224
+1.0,PRODUCT,AI Product Directory,https://example.com/product/7,Character AI,Character AI,ENTERPRISE,2026-06-23 20:56:23.500225
+1.0,PRODUCT,AI Product Directory,https://example.com/product/8,Runway,Runway Gen,FREE,2026-06-23 20:56:23.500226
+1.0,PRODUCT,AI Product Directory,https://example.com/product/9,Mistral AI,Mistral Chat,FREEMIUM,2026-06-23 20:56:23.500228
+1.0,PRODUCT,AI Product Directory,https://example.com/product/10,OpenAI,ChatGPT,PAID,2026-06-23 20:56:23.500229
+1.0,PRODUCT,AI Product Directory,https://example.com/product/11,Anthropic,Claude,ENTERPRISE,2026-06-23 20:56:23.500234
+1.0,PRODUCT,AI Product Directory,https://example.com/product/12,Google,Gemini,FREE,2026-06-23 20:56:23.500236
+1.0,PRODUCT,AI Product Directory,https://example.com/product/13,Perplexity,Perplexity AI,FREEMIUM,2026-06-23 20:56:23.500237
+1.0,PRODUCT,AI Product Directory,https://example.com/product/14,Midjourney,Midjourney,PAID,2026-06-23 20:56:23.500238
+1.0,PRODUCT,AI Product Directory,https://example.com/product/15,Stability AI,Stable Diffusion,ENTERPRISE,2026-06-23 20:56:23.500239
+1.0,PRODUCT,AI Product Directory,https://example.com/product/16,Microsoft,Copilot,FREE,2026-06-23 20:56:23.500240
+1.0,PRODUCT,AI Product Directory,https://example.com/product/17,Character AI,Character AI,FREEMIUM,2026-06-23 20:56:23.500241
+1.0,PRODUCT,AI Product Directory,https://example.com/product/18,Runway,Runway Gen,PAID,2026-06-23 20:56:23.500242
+1.0,PRODUCT,AI Product Directory,https://example.com/product/19,Mistral AI,Mistral Chat,ENTERPRISE,2026-06-23 20:56:23.500243
+1.0,PRODUCT,AI Product Directory,https://example.com/product/20,OpenAI,ChatGPT,FREE,2026-06-23 20:56:23.500244
+1.0,PRODUCT,AI Product Directory,https://example.com/product/21,Anthropic,Claude,FREEMIUM,2026-06-23 20:56:23.500245
+1.0,PRODUCT,AI Product Directory,https://example.com/product/22,Google,Gemini,PAID,2026-06-23 20:56:23.500247
+1.0,PRODUCT,AI Product Directory,https://example.com/product/23,Perplexity,Perplexity AI,ENTERPRISE,2026-06-23 20:56:23.500248
+1.0,PRODUCT,AI Product Directory,https://example.com/product/24,Midjourney,Midjourney,FREE,2026-06-23 20:56:23.500249
+1.0,PRODUCT,AI Product Directory,https://example.com/product/25,Stability AI,Stable Diffusion,FREEMIUM,2026-06-23 20:56:23.500250
+1.0,PRODUCT,AI Product Directory,https://example.com/product/26,Microsoft,Copilot,PAID,2026-06-23 20:56:23.500251
+1.0,PRODUCT,AI Product Directory,https://example.com/product/27,Character AI,Character AI,ENTERPRISE,2026-06-23 20:56:23.500252
+1.0,PRODUCT,AI Product Directory,https://example.com/product/28,Runway,Runway Gen,FREE,2026-06-23 20:56:23.500253
+1.0,PRODUCT,AI Product Directory,https://example.com/product/29,Mistral AI,Mistral Chat,FREEMIUM,2026-06-23 20:56:23.500254
+1.0,PRODUCT,AI Product Directory,https://example.com/product/30,OpenAI,ChatGPT,PAID,2026-06-23 20:56:23.500256
+1.0,PRODUCT,AI Product Directory,https://example.com/product/31,Anthropic,Claude,ENTERPRISE,2026-06-23 20:56:23.500258
+1.0,PRODUCT,AI Product Directory,https://example.com/product/32,Google,Gemini,FREE,2026-06-23 20:56:23.500260
+1.0,PRODUCT,AI Product Directory,https://example.com/product/33,Perplexity,Perplexity AI,FREEMIUM,2026-06-23 20:56:23.500261
+1.0,PRODUCT,AI Product Directory,https://example.com/product/34,Midjourney,Midjourney,PAID,2026-06-23 20:56:23.500262
+1.0,PRODUCT,AI Product Directory,https://example.com/product/35,Stability AI,Stable Diffusion,ENTERPRISE,2026-06-23 20:56:23.500263
+1.0,PRODUCT,AI Product Directory,https://example.com/product/36,Microsoft,Copilot,FREE,2026-06-23 20:56:23.500264
+1.0,PRODUCT,AI Product Directory,https://example.com/product/37,Character AI,Character AI,FREEMIUM,2026-06-23 20:56:23.500265
+1.0,PRODUCT,AI Product Directory,https://example.com/product/38,Runway,Runway Gen,PAID,2026-06-23 20:56:23.500266
+1.0,PRODUCT,AI Product Directory,https://example.com/product/39,Mistral AI,Mistral Chat,ENTERPRISE,2026-06-23 20:56:23.500267
+1.0,PRODUCT,AI Product Directory,https://example.com/product/40,OpenAI,ChatGPT,FREE,2026-06-23 20:56:23.500268
+1.0,PRODUCT,AI Product Directory,https://example.com/product/41,Anthropic,Claude,FREEMIUM,2026-06-23 20:56:23.500270
+1.0,PRODUCT,AI Product Directory,https://example.com/product/42,Google,Gemini,PAID,2026-06-23 20:56:23.500271
+1.0,PRODUCT,AI Product Directory,https://example.com/product/43,Perplexity,Perplexity AI,ENTERPRISE,2026-06-23 20:56:23.500272
+1.0,PRODUCT,AI Product Directory,https://example.com/product/44,Midjourney,Midjourney,FREE,2026-06-23 20:56:23.500273
+1.0,PRODUCT,AI Product Directory,https://example.com/product/45,Stability AI,Stable Diffusion,FREEMIUM,2026-06-23 20:56:23.500274
+1.0,PRODUCT,AI Product Directory,https://example.com/product/46,Microsoft,Copilot,PAID,2026-06-23 20:56:23.500275
+1.0,PRODUCT,AI Product Directory,https://example.com/product/47,Character AI,Character AI,ENTERPRISE,2026-06-23 20:56:23.500276
+1.0,PRODUCT,AI Product Directory,https://example.com/product/48,Runway,Runway Gen,FREE,2026-06-23 20:56:23.500278
+1.0,PRODUCT,AI Product Directory,https://example.com/product/49,Mistral AI,Mistral Chat,FREEMIUM,2026-06-23 20:56:23.500281
+1.0,PRODUCT,AI Product Directory,https://example.com/product/50,OpenAI,ChatGPT,PAID,2026-06-23 20:56:23.500283
+1.0,PRODUCT,AI Product Directory,https://example.com/product/51,Anthropic,Claude,ENTERPRISE,2026-06-23 20:56:23.500284
+1.0,PRODUCT,AI Product Directory,https://example.com/product/52,Google,Gemini,FREE,2026-06-23 20:56:23.500285
+1.0,PRODUCT,AI Product Directory,https://example.com/product/53,Perplexity,Perplexity AI,FREEMIUM,2026-06-23 20:56:23.500287
+1.0,PRODUCT,AI Product Directory,https://example.com/product/54,Midjourney,Midjourney,PAID,2026-06-23 20:56:23.500288
+1.0,PRODUCT,AI Product Directory,https://example.com/product/55,Stability AI,Stable Diffusion,ENTERPRISE,2026-06-23 20:56:23.500289
+1.0,PRODUCT,AI Product Directory,https://example.com/product/56,Microsoft,Copilot,FREE,2026-06-23 20:56:23.500290
+1.0,PRODUCT,AI Product Directory,https://example.com/product/57,Character AI,Character AI,FREEMIUM,2026-06-23 20:56:23.500291
+1.0,PRODUCT,AI Product Directory,https://example.com/product/58,Runway,Runway Gen,PAID,2026-06-23 20:56:23.500293
+1.0,PRODUCT,AI Product Directory,https://example.com/product/59,Mistral AI,Mistral Chat,ENTERPRISE,2026-06-23 20:56:23.500294
+1.0,PRODUCT,AI Product Directory,https://example.com/product/60,OpenAI,ChatGPT,FREE,2026-06-23 20:56:23.500296
+1.0,PRODUCT,AI Product Directory,https://example.com/product/61,Anthropic,Claude,FREEMIUM,2026-06-23 20:56:23.500297
+1.0,PRODUCT,AI Product Directory,https://example.com/product/62,Google,Gemini,PAID,2026-06-23 20:56:23.500298
+1.0,PRODUCT,AI Product Directory,https://example.com/product/63,Perplexity,Perplexity AI,ENTERPRISE,2026-06-23 20:56:23.500299
+1.0,PRODUCT,AI Product Directory,https://example.com/product/64,Midjourney,Midjourney,FREE,2026-06-23 20:56:23.500300
+1.0,PRODUCT,AI Product Directory,https://example.com/product/65,Stability AI,Stable Diffusion,FREEMIUM,2026-06-23 20:56:23.500302
+1.0,PRODUCT,AI Product Directory,https://example.com/product/66,Microsoft,Copilot,PAID,2026-06-23 20:56:23.500303
+1.0,PRODUCT,AI Product Directory,https://example.com/product/67,Character AI,Character AI,ENTERPRISE,2026-06-23 20:56:23.500304
+1.0,PRODUCT,AI Product Directory,https://example.com/product/68,Runway,Runway Gen,FREE,2026-06-23 20:56:23.500305
+1.0,PRODUCT,AI Product Directory,https://example.com/product/69,Mistral AI,Mistral Chat,FREEMIUM,2026-06-23 20:56:23.500306
+1.0,PRODUCT,AI Product Directory,https://example.com/product/70,OpenAI,ChatGPT,PAID,2026-06-23 20:56:23.500308
+1.0,PRODUCT,AI Product Directory,https://example.com/product/71,Anthropic,Claude,ENTERPRISE,2026-06-23 20:56:23.500310
+1.0,PRODUCT,AI Product Directory,https://example.com/product/72,Google,Gemini,FREE,2026-06-23 20:56:23.500311
+1.0,PRODUCT,AI Product Directory,https://example.com/product/73,Perplexity,Perplexity AI,FREEMIUM,2026-06-23 20:56:23.500312
+1.0,PRODUCT,AI Product Directory,https://example.com/product/74,Midjourney,Midjourney,PAID,2026-06-23 20:56:23.500313
+1.0,PRODUCT,AI Product Directory,https://example.com/product/75,Stability AI,Stable Diffusion,ENTERPRISE,2026-06-23 20:56:23.500314
+1.0,PRODUCT,AI Product Directory,https://example.com/product/76,Microsoft,Copilot,FREE,2026-06-23 20:56:23.500315
+1.0,PRODUCT,AI Product Directory,https://example.com/product/77,Character AI,Character AI,FREEMIUM,2026-06-23 20:56:23.500317
+1.0,PRODUCT,AI Product Directory,https://example.com/product/78,Runway,Runway Gen,PAID,2026-06-23 20:56:23.500318
+1.0,PRODUCT,AI Product Directory,https://example.com/product/79,Mistral AI,Mistral Chat,ENTERPRISE,2026-06-23 20:56:23.500319
+1.0,PRODUCT,AI Product Directory,https://example.com/product/80,OpenAI,ChatGPT,FREE,2026-06-23 20:56:23.500320
+1.0,PRODUCT,AI Product Directory,https://example.com/product/81,Anthropic,Claude,FREEMIUM,2026-06-23 20:56:23.500321
+1.0,PRODUCT,AI Product Directory,https://example.com/product/82,Google,Gemini,PAID,2026-06-23 20:56:23.500322
+1.0,PRODUCT,AI Product Directory,https://example.com/product/83,Perplexity,Perplexity AI,ENTERPRISE,2026-06-23 20:56:23.500323
+1.0,PRODUCT,AI Product Directory,https://example.com/product/84,Midjourney,Midjourney,FREE,2026-06-23 20:56:23.500324
+1.0,PRODUCT,AI Product Directory,https://example.com/product/85,Stability AI,Stable Diffusion,FREEMIUM,2026-06-23 20:56:23.500325
+1.0,PRODUCT,AI Product Directory,https://example.com/product/86,Microsoft,Copilot,PAID,2026-06-23 20:56:23.500326
+1.0,PRODUCT,AI Product Directory,https://example.com/product/87,Character AI,Character AI,ENTERPRISE,2026-06-23 20:56:23.500327
+1.0,PRODUCT,AI Product Directory,https://example.com/product/88,Runway,Runway Gen,FREE,2026-06-23 20:56:23.500328
+1.0,PRODUCT,AI Product Directory,https://example.com/product/89,Mistral AI,Mistral Chat,FREEMIUM,2026-06-23 20:56:23.500331
+1.0,PRODUCT,AI Product Directory,https://example.com/product/90,OpenAI,ChatGPT,PAID,2026-06-23 20:56:23.500332
+1.0,PRODUCT,AI Product Directory,https://example.com/product/91,Anthropic,Claude,ENTERPRISE,2026-06-23 20:56:23.500333
+1.0,PRODUCT,AI Product Directory,https://example.com/product/92,Google,Gemini,FREE,2026-06-23 20:56:23.500334
+1.0,PRODUCT,AI Product Directory,https://example.com/product/93,Perplexity,Perplexity AI,FREEMIUM,2026-06-23 20:56:23.500335
+1.0,PRODUCT,AI Product Directory,https://example.com/product/94,Midjourney,Midjourney,PAID,2026-06-23 20:56:23.500337
+1.0,PRODUCT,AI Product Directory,https://example.com/product/95,Stability AI,Stable Diffusion,ENTERPRISE,2026-06-23 20:56:23.500338
+1.0,PRODUCT,AI Product Directory,https://example.com/product/96,Microsoft,Copilot,FREE,2026-06-23 20:56:23.500339
+1.0,PRODUCT,AI Product Directory,https://example.com/product/97,Character AI,Character AI,FREEMIUM,2026-06-23 20:56:23.500340
+1.0,PRODUCT,AI Product Directory,https://example.com/product/98,Runway,Runway Gen,PAID,2026-06-23 20:56:23.500341
+1.0,PRODUCT,AI Product Directory,https://example.com/product/99,Mistral AI,Mistral Chat,ENTERPRISE,2026-06-23 20:56:23.500342
